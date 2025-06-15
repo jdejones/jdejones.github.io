@@ -25,6 +25,7 @@ Projects to demonstrate skills in working with publicly available datasets.
 | [0013-roman-to-integer](https://github.com/jdejones/jdejones.github.io/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jdejones/jdejones.github.io/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jdejones/jdejones.github.io/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -33,4 +34,12 @@ Projects to demonstrate skills in working with publicly available datasets.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jdejones/jdejones.github.io/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

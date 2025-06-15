@@ -36,7 +36,7 @@ ________________________________________________________________________________
 | [0125-valid-palindrome](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
-| [1205-defanging-an-ip-address](https://github.com/jdejones/jdejones.github.io/tree/master/1205-defanging-an-ip-address) |
+| [1205-defanging-an-ip-address](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1205-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |

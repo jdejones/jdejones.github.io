@@ -64,5 +64,5 @@ ________________________________________________________________________________
 | [0182-duplicate-emails](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0577-employee-bonus) |
-| [0584-find-customer-referee](https://github.com/jdejones/jdejones.github.io/tree/master/0584-find-customer-referee) |
+| [0584-find-customer-referee](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

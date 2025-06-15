@@ -17,7 +17,7 @@ ________________________________________________________________________________
 | ------- |
 | [0001-two-sum](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0013-roman-to-integer) |
-| [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/tree/master/0782-jewels-and-stones) |
+| [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 | [0058-length-of-last-word](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0557-reverse-words-in-a-string-iii) |
-| [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/tree/master/0782-jewels-and-stones) |
+| [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |

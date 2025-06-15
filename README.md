@@ -55,4 +55,8 @@ ________________________________________________________________________________
 | ------- |
 | [0035-search-insert-position](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jdejones/jdejones.github.io/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

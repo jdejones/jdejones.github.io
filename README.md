@@ -68,5 +68,5 @@ ________________________________________________________________________________
 | [0595-big-countries](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0620-not-boring-movies) |
-| [0627-swap-salary](https://github.com/jdejones/jdejones.github.io/tree/master/0627-swap-salary) |
+| [0627-swap-salary](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0627-swap-salary) |
 <!---LeetCode Topics End-->

@@ -67,4 +67,5 @@ ________________________________________________________________________________
 | [0584-find-customer-referee](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/jdejones/jdejones.github.io/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->

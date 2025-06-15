@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0001-two-sum/0001-two-sum.py) |
+| [0001-two-sum](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0035-search-insert-position) |
 ## Hash Table
 |  |

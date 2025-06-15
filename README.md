@@ -11,6 +11,7 @@ ________________________________________________________________________________
 | ------- |
 | [0001-two-sum](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/jdejones/jdejones.github.io/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ ________________________________________________________________________________
 | ------- |
 | [0009-palindrome-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/jdejones/jdejones.github.io/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |

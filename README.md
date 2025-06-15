@@ -3,7 +3,7 @@ Projects to demonstrate skills in working with publicly available datasets.
 
 [https://jdejones.github.io/test.html](https://jdejones.github.io/test.html)
 
-###_________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array

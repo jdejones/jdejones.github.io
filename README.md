@@ -25,7 +25,7 @@ ________________________________________________________________________________
 | [0013-roman-to-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0069-sqrtx) |
-| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jdejones/jdejones.github.io/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
 | ------- |

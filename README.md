@@ -99,12 +99,12 @@ ________________________________________________________________________________
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
-| [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/tree/master/1708-design-parking-system) |
+| [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1708-design-parking-system) |
 ## Simulation
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1505-create-target-array-in-the-given-order) |
-| [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/tree/master/1708-design-parking-system) |
+| [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1708-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,5 +116,5 @@ ________________________________________________________________________________
 ## Design
 |  |
 | ------- |
-| [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/tree/master/1708-design-parking-system) |
+| [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1708-design-parking-system) |
 <!---LeetCode Topics End-->

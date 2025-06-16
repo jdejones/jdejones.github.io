@@ -16,7 +16,7 @@ ________________________________________________________________________________
 | [1505-create-target-array-in-the-given-order](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1580-shuffle-the-array) |
-| [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/tree/master/1603-running-sum-of-1d-array) |
+| [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,5 +97,5 @@ ________________________________________________________________________________
 ## Prefix Sum
 |  |
 | ------- |
-| [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/tree/master/1603-running-sum-of-1d-array) |
+| [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutionsr/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

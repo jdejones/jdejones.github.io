@@ -18,6 +18,7 @@ ________________________________________________________________________________
 | [1580-shuffle-the-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/tree/master/1651-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ ________________________________________________________________________________
 | [0557-reverse-words-in-a-string-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/tree/master/1651-shuffle-string) |
 ## Trie
 |  |
 | ------- |

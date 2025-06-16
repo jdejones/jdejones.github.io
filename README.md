@@ -17,7 +17,7 @@ ________________________________________________________________________________
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1603-running-sum-of-1d-array) |
-| [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/tree/master/1635-number-of-good-pairs) |
+| [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 | [0013-roman-to-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
-| [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/tree/master/1635-number-of-good-pairs) |
+| [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 | [0069-sqrtx](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0069-sqrtx) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1610-xor-operation-in-an-array) |
-| [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/tree/master/1635-number-of-good-pairs) |
+| [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -94,7 +94,7 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
-| [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/tree/master/1635-number-of-good-pairs) |
+| [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |

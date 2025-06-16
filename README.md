@@ -89,7 +89,7 @@ ________________________________________________________________________________
 | [1258-article-views-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1670-patients-with-a-condition) |
-| [1734-bank-account-summary-ii](https://github.com/jdejones/jdejones.github.io/tree/master/1734-bank-account-summary-ii) |
+| [1734-bank-account-summary-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1734-bank-account-summary-ii) |
 ## Sorting
 |  |
 | ------- |

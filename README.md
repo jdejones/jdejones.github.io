@@ -12,14 +12,14 @@ ________________________________________________________________________________
 | [0001-two-sum](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0066-plus-one) |
-| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
-| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -80,9 +80,9 @@ ________________________________________________________________________________
 ## Sorting
 |  |
 | ------- |
-| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
-| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

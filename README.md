@@ -32,7 +32,7 @@ ________________________________________________________________________________
 | [0066-plus-one](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0069-sqrtx) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
-| [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/tree/master/1610-xor-operation-in-an-array) |
+| [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1610-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -102,5 +102,5 @@ ________________________________________________________________________________
 ## Bit Manipulation
 |  |
 | ------- |
-| [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/tree/master/1610-xor-operation-in-an-array) |
+| [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->

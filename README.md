@@ -19,6 +19,7 @@ ________________________________________________________________________________
 | [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1651-shuffle-string) |
+| [1791-richest-customer-wealth](https://github.com/jdejones/jdejones.github.io/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +118,8 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1708-design-parking-system) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/jdejones/jdejones.github.io/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->

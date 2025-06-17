@@ -108,6 +108,7 @@ ________________________________________________________________________________
 | [1908-recyclable-and-low-fat-products](https://github.com/jdejones/jdejones.github.io/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/jdejones/jdejones.github.io/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/jdejones/jdejones.github.io/tree/master/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/jdejones/jdejones.github.io/tree/master/2041-the-latest-login-in-2020) |
 ## Sorting
 |  |
 | ------- |

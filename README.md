@@ -90,6 +90,7 @@ ________________________________________________________________________________
 | [2406-decode-the-message](https://github.com/jdejones/jdejones.github.io/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/jdejones/jdejones.github.io/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |

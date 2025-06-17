@@ -24,6 +24,7 @@ ________________________________________________________________________________
 | [1833-find-the-highest-altitude](https://github.com/jdejones/jdejones.github.io/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/jdejones/jdejones.github.io/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/jdejones/jdejones.github.io/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/jdejones/jdejones.github.io/tree/master/1944-truncate-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ ________________________________________________________________________________
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/jdejones/jdejones.github.io/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/jdejones/jdejones.github.io/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/jdejones/jdejones.github.io/tree/master/1944-truncate-sentence) |
 ## Trie
 |  |
 | ------- |

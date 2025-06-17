@@ -35,6 +35,7 @@ ________________________________________________________________________________
 | [2714-left-and-right-sum-differences](https://github.com/jdejones/jdejones.github.io/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jdejones/jdejones.github.io/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jdejones/jdejones.github.io/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/jdejones/jdejones.github.io/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@ ________________________________________________________________________________
 | [1839-decode-xored-array](https://github.com/jdejones/jdejones.github.io/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jdejones/jdejones.github.io/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/jdejones/jdejones.github.io/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Design
 |  |
 | ------- |

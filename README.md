@@ -41,6 +41,7 @@ ________________________________________________________________________________
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jdejones/jdejones.github.io/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jdejones/jdejones.github.io/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3582-find-indices-of-stable-mountains](https://github.com/jdejones/jdejones.github.io/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |

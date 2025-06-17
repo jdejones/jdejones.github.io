@@ -25,6 +25,7 @@ ________________________________________________________________________________
 | [1839-decode-xored-array](https://github.com/jdejones/jdejones.github.io/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/jdejones/jdejones.github.io/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/jdejones/jdejones.github.io/tree/master/1944-truncate-sentence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ ________________________________________________________________________________
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ ________________________________________________________________________________
 | [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/jdejones/jdejones.github.io/tree/master/1839-decode-xored-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
 | ------- |
@@ -144,4 +147,16 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/jdejones/jdejones.github.io/tree/master/1916-find-center-of-star-graph) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

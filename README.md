@@ -49,6 +49,7 @@ ________________________________________________________________________________
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2406-decode-the-message](https://github.com/jdejones/jdejones.github.io/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/jdejones/jdejones.github.io/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ ________________________________________________________________________________
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/jdejones/jdejones.github.io/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/jdejones/jdejones.github.io/tree/master/3412-permutation-difference-between-two-strings) |
 ## Trie
 |  |
 | ------- |

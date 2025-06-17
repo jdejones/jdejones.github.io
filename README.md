@@ -99,6 +99,7 @@ ________________________________________________________________________________
 | [1734-bank-account-summary-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/jdejones/jdejones.github.io/tree/master/1827-invalid-tweets) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/jdejones/jdejones.github.io/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1908-recyclable-and-low-fat-products](https://github.com/jdejones/jdejones.github.io/tree/master/1908-recyclable-and-low-fat-products) |
 ## Sorting
 |  |
 | ------- |

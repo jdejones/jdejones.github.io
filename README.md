@@ -137,4 +137,8 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1791-richest-customer-wealth) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/jdejones/jdejones.github.io/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

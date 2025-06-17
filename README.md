@@ -29,6 +29,7 @@ ________________________________________________________________________________
 | [2048-build-array-from-permutation](https://github.com/jdejones/jdejones.github.io/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jdejones/jdejones.github.io/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jdejones/jdejones.github.io/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/jdejones/jdejones.github.io/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ ________________________________________________________________________________
 | [1944-truncate-sentence](https://github.com/jdejones/jdejones.github.io/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/jdejones/jdejones.github.io/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jdejones/jdejones.github.io/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/jdejones/jdejones.github.io/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |

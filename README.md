@@ -107,6 +107,7 @@ ________________________________________________________________________________
 | [3379-score-of-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jdejones/jdejones.github.io/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/jdejones/jdejones.github.io/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -187,6 +188,7 @@ ________________________________________________________________________________
 | [2058-concatenation-of-array](https://github.com/jdejones/jdejones.github.io/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jdejones/jdejones.github.io/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/3811-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |

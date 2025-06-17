@@ -74,6 +74,7 @@ ________________________________________________________________________________
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jdejones/jdejones.github.io/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jdejones/jdejones.github.io/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/jdejones/jdejones.github.io/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ ________________________________________________________________________________
 | [3194-find-words-containing-character](https://github.com/jdejones/jdejones.github.io/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jdejones/jdejones.github.io/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/jdejones/jdejones.github.io/tree/master/3567-convert-date-to-binary) |
 ## Trie
 |  |
 | ------- |

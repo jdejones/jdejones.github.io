@@ -23,6 +23,7 @@ ________________________________________________________________________________
 | [1791-richest-customer-wealth](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/jdejones/jdejones.github.io/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/jdejones/jdejones.github.io/tree/master/1839-decode-xored-array) |
+| [1899-count-items-matching-a-rule](https://github.com/jdejones/jdejones.github.io/tree/master/1899-count-items-matching-a-rule) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ ________________________________________________________________________________
 | [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/jdejones/jdejones.github.io/tree/master/1797-goal-parser-interpretation) |
+| [1899-count-items-matching-a-rule](https://github.com/jdejones/jdejones.github.io/tree/master/1899-count-items-matching-a-rule) |
 ## Trie
 |  |
 | ------- |

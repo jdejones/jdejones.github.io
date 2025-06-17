@@ -51,6 +51,7 @@ ________________________________________________________________________________
 | [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/jdejones/jdejones.github.io/tree/master/1797-goal-parser-interpretation) |
 ## Trie
 |  |
 | ------- |

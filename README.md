@@ -36,6 +36,7 @@ ________________________________________________________________________________
 | [2876-number-of-employees-who-met-the-target](https://github.com/jdejones/jdejones.github.io/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jdejones/jdejones.github.io/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/jdejones/jdejones.github.io/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3194-find-words-containing-character](https://github.com/jdejones/jdejones.github.io/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ ________________________________________________________________________________
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jdejones/jdejones.github.io/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/jdejones/jdejones.github.io/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
+| [3194-find-words-containing-character](https://github.com/jdejones/jdejones.github.io/tree/master/3194-find-words-containing-character) |
 ## Trie
 |  |
 | ------- |

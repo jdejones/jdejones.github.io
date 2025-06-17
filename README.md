@@ -37,6 +37,7 @@ ________________________________________________________________________________
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jdejones/jdejones.github.io/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/jdejones/jdejones.github.io/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/jdejones/jdejones.github.io/tree/master/3194-find-words-containing-character) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jdejones/jdejones.github.io/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |

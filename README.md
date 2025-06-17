@@ -26,6 +26,7 @@ ________________________________________________________________________________
 | [1899-count-items-matching-a-rule](https://github.com/jdejones/jdejones.github.io/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/jdejones/jdejones.github.io/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/jdejones/jdejones.github.io/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ ________________________________________________________________________________
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1708-design-parking-system) |
+| [2048-build-array-from-permutation](https://github.com/jdejones/jdejones.github.io/tree/master/2048-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |

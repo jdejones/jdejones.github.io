@@ -30,6 +30,7 @@ ________________________________________________________________________________
 | [2058-concatenation-of-array](https://github.com/jdejones/jdejones.github.io/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jdejones/jdejones.github.io/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jdejones/jdejones.github.io/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ ________________________________________________________________________________
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2406-decode-the-message](https://github.com/jdejones/jdejones.github.io/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@ ________________________________________________________________________________
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jdejones/jdejones.github.io/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jdejones/jdejones.github.io/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/jdejones/jdejones.github.io/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
 ## Trie
 |  |
 | ------- |
@@ -127,6 +130,7 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
 ## Counting Sort
 |  |
 | ------- |

@@ -161,6 +161,7 @@ ________________________________________________________________________________
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jdejones/jdejones.github.io/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3711-first-letter-capitalization-ii](https://github.com/jdejones/jdejones.github.io/tree/master/3711-first-letter-capitalization-ii) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/jdejones/jdejones.github.io/tree/master/3803-find-products-with-valid-serial-numbers) |
+| [3816-dna-pattern-recognition](https://github.com/jdejones/jdejones.github.io/tree/master/3816-dna-pattern-recognition) |
 ## Sorting
 |  |
 | ------- |

@@ -21,6 +21,7 @@ ________________________________________________________________________________
 | [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/jdejones/jdejones.github.io/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/jdejones/jdejones.github.io/tree/master/1839-decode-xored-array) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutionsr/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/jdejones/jdejones.github.io/tree/master/1833-find-the-highest-altitude) |
 ## Bit Manipulation
 |  |
 | ------- |

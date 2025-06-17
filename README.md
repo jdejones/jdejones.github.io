@@ -149,6 +149,7 @@ ________________________________________________________________________________
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/jdejones/jdejones.github.io/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/jdejones/jdejones.github.io/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Design
 |  |
 | ------- |

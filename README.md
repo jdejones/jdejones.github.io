@@ -59,6 +59,7 @@ ________________________________________________________________________________
 | [3412-permutation-difference-between-two-strings](https://github.com/jdejones/jdejones.github.io/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jdejones/jdejones.github.io/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jdejones/jdejones.github.io/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jdejones/jdejones.github.io/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ ________________________________________________________________________________
 | [3412-permutation-difference-between-two-strings](https://github.com/jdejones/jdejones.github.io/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/jdejones/jdejones.github.io/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jdejones/jdejones.github.io/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -179,6 +181,7 @@ ________________________________________________________________________________
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jdejones/jdejones.github.io/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/jdejones/jdejones.github.io/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jdejones/jdejones.github.io/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |

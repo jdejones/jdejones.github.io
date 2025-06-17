@@ -43,6 +43,7 @@ ________________________________________________________________________________
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jdejones/jdejones.github.io/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/jdejones/jdejones.github.io/tree/master/3582-find-indices-of-stable-mountains) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/jdejones/jdejones.github.io/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ ________________________________________________________________________________
 | [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutionsr/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/jdejones/jdejones.github.io/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/jdejones/jdejones.github.io/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/jdejones/jdejones.github.io/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |

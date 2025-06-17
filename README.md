@@ -32,6 +32,7 @@ ________________________________________________________________________________
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jdejones/jdejones.github.io/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jdejones/jdejones.github.io/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/jdejones/jdejones.github.io/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ ________________________________________________________________________________
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutionsr/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/jdejones/jdejones.github.io/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/jdejones/jdejones.github.io/tree/master/2714-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
 | ------- |

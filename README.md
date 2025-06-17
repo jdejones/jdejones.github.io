@@ -65,6 +65,7 @@ ________________________________________________________________________________
 | [1797-goal-parser-interpretation](https://github.com/jdejones/jdejones.github.io/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/jdejones/jdejones.github.io/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/jdejones/jdejones.github.io/tree/master/1944-truncate-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/jdejones/jdejones.github.io/tree/master/2128-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
@@ -73,12 +74,14 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0020-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/jdejones/jdejones.github.io/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0557-reverse-words-in-a-string-iii) |
+| [2128-reverse-prefix-of-word](https://github.com/jdejones/jdejones.github.io/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |

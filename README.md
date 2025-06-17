@@ -31,6 +31,7 @@ ________________________________________________________________________________
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jdejones/jdejones.github.io/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jdejones/jdejones.github.io/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jdejones/jdejones.github.io/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ ________________________________________________________________________________
 | ------- |
 | [0035-search-insert-position](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0069-sqrtx) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jdejones/jdejones.github.io/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
 |  |
 | ------- |
@@ -140,6 +142,7 @@ ________________________________________________________________________________
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jdejones/jdejones.github.io/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |

@@ -159,6 +159,7 @@ ________________________________________________________________________________
 | [2041-the-latest-login-in-2020](https://github.com/jdejones/jdejones.github.io/tree/master/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jdejones/jdejones.github.io/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3711-first-letter-capitalization-ii](https://github.com/jdejones/jdejones.github.io/tree/master/3711-first-letter-capitalization-ii) |
+| [3803-find-products-with-valid-serial-numbers](https://github.com/jdejones/jdejones.github.io/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Sorting
 |  |
 | ------- |

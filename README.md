@@ -33,6 +33,7 @@ ________________________________________________________________________________
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jdejones/jdejones.github.io/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/jdejones/jdejones.github.io/tree/master/2714-left-and-right-sum-differences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/jdejones/jdejones.github.io/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |

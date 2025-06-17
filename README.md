@@ -52,6 +52,7 @@ ________________________________________________________________________________
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/jdejones/jdejones.github.io/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/jdejones/jdejones.github.io/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -178,4 +179,8 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/jdejones/jdejones.github.io/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->

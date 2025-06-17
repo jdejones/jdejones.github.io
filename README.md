@@ -19,6 +19,7 @@ ________________________________________________________________________________
 | [1603-running-sum-of-1d-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ ________________________________________________________________________________
 | [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ ________________________________________________________________________________
 | [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/jdejones/jdejones.github.io/tree/master/1797-goal-parser-interpretation) |
 ## Trie
 |  |
@@ -103,6 +106,7 @@ ________________________________________________________________________________
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1708-design-parking-system) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +120,7 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Design
 |  |
 | ------- |

@@ -40,6 +40,7 @@ ________________________________________________________________________________
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jdejones/jdejones.github.io/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jdejones/jdejones.github.io/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jdejones/jdejones.github.io/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ ________________________________________________________________________________
 | [2812-find-the-maximum-achievable-number](https://github.com/jdejones/jdejones.github.io/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jdejones/jdejones.github.io/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jdejones/jdejones.github.io/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ ________________________________________________________________________________
 | [2048-build-array-from-permutation](https://github.com/jdejones/jdejones.github.io/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jdejones/jdejones.github.io/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jdejones/jdejones.github.io/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -214,4 +217,8 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/jdejones/jdejones.github.io/tree/master/2491-smallest-even-multiple) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->

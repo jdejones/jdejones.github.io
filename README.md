@@ -50,6 +50,7 @@ ________________________________________________________________________________
 | [1610-xor-operation-in-an-array](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2383-add-two-integers](https://github.com/jdejones/jdejones.github.io/tree/master/2383-add-two-integers) |
 ## String
 |  |
 | ------- |

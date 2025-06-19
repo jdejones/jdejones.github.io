@@ -155,24 +155,24 @@ ________________________________________________________________________________
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1734-bank-account-summary-ii) |
-| [1827-invalid-tweets](https://github.com/jdejones/jdejones.github.io/tree/master/1827-invalid-tweets) |
-| [1892-find-total-time-spent-by-each-employee](https://github.com/jdejones/jdejones.github.io/tree/master/1892-find-total-time-spent-by-each-employee) |
-| [1908-recyclable-and-low-fat-products](https://github.com/jdejones/jdejones.github.io/tree/master/1908-recyclable-and-low-fat-products) |
+| [1827-invalid-tweets](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1827-invalid-tweets) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1892-find-total-time-spent-by-each-employee) |
+| [1908-recyclable-and-low-fat-products](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1942-primary-department-for-each-employee) |
-| [1948-rearrange-products-table](https://github.com/jdejones/jdejones.github.io/tree/master/1948-rearrange-products-table) |
-| [2024-calculate-special-bonus](https://github.com/jdejones/jdejones.github.io/tree/master/2024-calculate-special-bonus) |
-| [2041-the-latest-login-in-2020](https://github.com/jdejones/jdejones.github.io/tree/master/2041-the-latest-login-in-2020) |
-| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jdejones/jdejones.github.io/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
-| [3711-first-letter-capitalization-ii](https://github.com/jdejones/jdejones.github.io/tree/master/3711-first-letter-capitalization-ii) |
-| [3803-find-products-with-valid-serial-numbers](https://github.com/jdejones/jdejones.github.io/tree/master/3803-find-products-with-valid-serial-numbers) |
-| [3816-dna-pattern-recognition](https://github.com/jdejones/jdejones.github.io/tree/master/3816-dna-pattern-recognition) |
+| [1948-rearrange-products-table](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1948-rearrange-products-table) |
+| [2024-calculate-special-bonus](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2041-the-latest-login-in-2020) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3711-first-letter-capitalization-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3711-first-letter-capitalization-ii) |
+| [3803-find-products-with-valid-serial-numbers](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3803-find-products-with-valid-serial-numbers) |
+| [3816-dna-pattern-recognition](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3816-dna-pattern-recognition) |
 ## Sorting
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
-| [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/tree/master/2502-sort-the-people) |
-| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jdejones/jdejones.github.io/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
-| [3778-transform-array-by-parity](https://github.com/jdejones/jdejones.github.io/tree/master/3778-transform-array-by-parity) |
+| [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2502-sort-the-people) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3778-transform-array-by-parity](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |

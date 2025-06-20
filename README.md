@@ -1,5 +1,6 @@
 # jdejones.github.io
 Projects to demonstrate skills in working with publicly available datasets.
+I'm new to github so I'll be updating this page as I have the opportunity.
 
 [https://jdejones.github.io/test.html](https://jdejones.github.io/test.html)
 

@@ -169,7 +169,7 @@ ________________________________________________________________________________
 | [3711-first-letter-capitalization-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3711-first-letter-capitalization-ii) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3803-find-products-with-valid-serial-numbers) |
 | [3816-dna-pattern-recognition](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3816-dna-pattern-recognition) |
-| [3848-analyze-subscription-conversion](https://github.com/jdejones/jdejones.github.io/tree/master/3848-analyze-subscription-conversion) |
+| [3848-analyze-subscription-conversion](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3848-analyze-subscription-conversion) |
 ## Sorting
 |  |
 | ------- |

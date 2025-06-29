@@ -39,7 +39,7 @@ ________________________________________________________________________________
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3194-find-words-containing-character) |
-| [3206-find-common-elements-between-two-arrays](https://github.com/jdejones/jdejones.github.io/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3206-find-common-elements-between-two-arrays) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1786-count-the-number-of-consistent-strings) |
 | [2406-decode-the-message](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2502-sort-the-people) |
-| [3206-find-common-elements-between-two-arrays](https://github.com/jdejones/jdejones.github.io/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3581-the-two-sneaky-numbers-of-digitville) |

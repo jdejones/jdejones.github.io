@@ -157,7 +157,7 @@ ________________________________________________________________________________
 | [0627-swap-salary](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1258-article-views-i) |
-| [1438-find-the-team-size](https://github.com/jdejones/jdejones.github.io/tree/master/1438-find-the-team-size) |
+| [1438-find-the-team-size](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1481-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1523-capital-gainloss) |

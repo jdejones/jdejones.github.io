@@ -9,6 +9,7 @@ ________________________________________________________________________________
 # StratScratch Solutions
 
 | [Customer-Details](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Customer-Details) |
+
 _________________________________________________________________________________________________________________________________________________________________
 <!---LeetCode Topics Start-->
 # LeetCode Topics

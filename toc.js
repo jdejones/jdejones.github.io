@@ -2,6 +2,10 @@ document.addEventListener('DOMContentLoaded', function() {
     var toc = document.getElementById('toc');
     if (!toc) return;
 
+    var headers = document.querySelectorAll('#readme h1');
+    if (headers.length === 0) {
+        headers = document.querySelectorAll('h1');
+    }
     var headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
     if (headers.length === 0) return;
 

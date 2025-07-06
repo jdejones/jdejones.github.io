@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
         ul = document.createElement('ul');
         toc.appendChild(ul);
     }
+    var ul = document.createElement('ul');
 
     headers.forEach(function(header) {
         if (!header.id) {

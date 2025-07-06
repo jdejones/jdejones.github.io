@@ -48,7 +48,7 @@ ________________________________________________________________________________
 | [3582-find-indices-of-stable-mountains](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3582-find-indices-of-stable-mountains) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3778-transform-array-by-parity) |
-| [3787-maximum-students-on-a-single-bench](https://github.com/jdejones/jdejones.github.io/tree/master/3787-maximum-students-on-a-single-bench) |
+| [3787-maximum-students-on-a-single-bench](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3787-maximum-students-on-a-single-bench) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 | [3412-permutation-difference-between-two-strings](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3581-the-two-sneaky-numbers-of-digitville) |
-| [3787-maximum-students-on-a-single-bench](https://github.com/jdejones/jdejones.github.io/tree/master/3787-maximum-students-on-a-single-bench) |
+| [3787-maximum-students-on-a-single-bench](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3787-maximum-students-on-a-single-bench) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |

@@ -8,7 +8,7 @@ I'm new to github so I'll be updating this page as I have the opportunity.
 _________________________________________________________________________________________________________________________________________________________________
 # StratScratch Solutions
 
-| [Customer-Details](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Customer-Details) |
+| [Customer-Details](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Customer-Details) | | [Number-of-Shipments-Per-Month](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Number-of-Shipments-Per-Month) |
 
 _________________________________________________________________________________________________________________________________________________________________
 <!---LeetCode Topics Start-->

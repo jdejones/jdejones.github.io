@@ -6,6 +6,9 @@ I'm new to github so I'll be updating this page as I have the opportunity.
 [https://jdejones.github.io/test.html](https://jdejones.github.io/test.html)
 
 _________________________________________________________________________________________________________________________________________________________________
+#StratScratch Solutions
+
+_________________________________________________________________________________________________________________________________________________________________
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array

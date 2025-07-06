@@ -5,6 +5,11 @@ document.addEventListener('DOMContentLoaded', function() {
     var headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
     if (headers.length === 0) return;
 
+    var ul = toc.querySelector('ul');
+    if (!ul) {
+        ul = document.createElement('ul');
+        toc.appendChild(ul);
+    }
     var ul = document.createElement('ul');
 
     headers.forEach(function(header) {

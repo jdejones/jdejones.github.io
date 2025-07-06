@@ -1,0 +1,28 @@
+---
+title: Home
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="toc.js" defer></script>
+</head>
+<body>
+<nav id="toc">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+  </ul>
+</nav>
+<main>
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+  <section id="readme">
+  {% capture readme_content %}{% include_relative README.md %}{% endcapture %}
+  {{ readme_content | markdownify }}
+  </section>
+</main>
+</body>
+</html>

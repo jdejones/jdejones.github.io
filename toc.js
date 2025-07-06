@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (headers.length === 0) {
         headers = document.querySelectorAll('h1');
     }
+    var headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
     if (headers.length === 0) return;
 
     var ul = toc.querySelector('ul');
@@ -13,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         ul = document.createElement('ul');
         toc.appendChild(ul);
     }
+    var ul = document.createElement('ul');
 
     headers.forEach(function(header) {
         if (!header.id) {

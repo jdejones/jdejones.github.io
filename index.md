@@ -18,4 +18,7 @@ title: Home
 {% capture readme_content %}{% include_relative README.md %}{% endcapture %}
 {{ readme_content | markdownify }}
 </section>
+{% capture readme_content %}{% include_relative README.md %}{% endcapture %}
+{{ readme_content | markdownify }}
+{% include_relative README.md %}
 </main>

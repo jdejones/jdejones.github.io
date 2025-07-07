@@ -28,5 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
         ul.appendChild(li);
     });
 
+});
+
     toc.appendChild(ul);
 });

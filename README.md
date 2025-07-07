@@ -6,6 +6,11 @@ I'm new to github so I'll be updating this page as I have the opportunity.
 [https://jdejones.github.io/test.html](https://jdejones.github.io/test.html)
 
 _________________________________________________________________________________________________________________________________________________________________
+# StratScratch Solutions
+
+| [Customer-Details](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Customer-Details) | | [Number-of-Shipments-Per-Month](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Number-of-Shipments-Per-Month) | | [MacBookPro-User-Event-Count](https://github.com/jdejones/jdejones.github.io/edit/main/README.md) |
+
+_________________________________________________________________________________________________________________________________________________________________
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array

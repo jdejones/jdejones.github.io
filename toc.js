@@ -1,34 +1,36 @@
+// toc.js
 document.addEventListener('DOMContentLoaded', function() {
-    var toc = document.getElementById('toc');
-    if (!toc) return;
-
-    var headers = document.querySelectorAll('#readme h1');
-    if (headers.length === 0) {
-        headers = document.querySelectorAll('h1');
-    }
-    var headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
-    if (headers.length === 0) return;
-
-    var ul = toc.querySelector('ul');
-    if (!ul) {
-        ul = document.createElement('ul');
-        toc.appendChild(ul);
-    }
-    var ul = document.createElement('ul');
-
-    headers.forEach(function(header) {
-        if (!header.id) {
-            header.id = header.textContent.trim().toLowerCase().replace(/\s+/g, '-');
-        }
-        var li = document.createElement('li');
-        var a = document.createElement('a');
-        a.href = '#' + header.id;
-        a.textContent = header.textContent;
-        li.appendChild(a);
-        ul.appendChild(li);
+    const toc = document.getElementById('toc');
+    const readme = document.getElementById('readme');
+    if (!toc || !readme) return;
+  
+    const ul = document.createElement('ul');
+  
+    // Optional: add Home link
+    const homeLi = document.createElement('li');
+    const homeA = document.createElement('a');
+    homeA.href = 'index.html';
+    homeA.textContent = 'Home';
+    homeLi.appendChild(homeA);
+    ul.appendChild(homeLi);
+  
+    // Find each first-level heading in the README section
+    readme.querySelectorAll('h1').forEach(header => {
+      // Give it an ID if missing
+      if (!header.id) {
+        header.id = header.textContent.trim()
+          .toLowerCase()
+          .replace(/\s+/g, '-');
+      }
+      // Build the list item
+      const li = document.createElement('li');
+      const a  = document.createElement('a');
+      a.href = `#${header.id}`;
+      a.textContent = header.textContent;
+      li.appendChild(a);
+      ul.appendChild(li);
     });
-
-});
-
+  
     toc.appendChild(ul);
-});
+  });
+  

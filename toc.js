@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
     // Optional: add Home link
     const homeLi = document.createElement('li');
+    const homeA = document.createElement('a');
     homeA.textContent = 'Contents';
     homeLi.appendChild(homeA);
     ul.appendChild(homeLi);

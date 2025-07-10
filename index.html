@@ -6,6 +6,7 @@ title: Home
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
   <link rel="stylesheet" href="style.css">
   <script src="toc.js" defer></script>
 </head>
@@ -13,7 +14,7 @@ title: Home
 <nav id="toc">
 </nav>
 <main>
-  <h1>{{ site.title }}</h1>
+  
   <p>{{ site.description }}</p>
   <section id="readme">
   {% capture readme_content %}{% include_relative README.md %}{% endcapture %}

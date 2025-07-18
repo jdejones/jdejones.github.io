@@ -13,11 +13,11 @@ layout: null
 <nav id="toc">
 </nav>
 <main>
-  <!--<section id="readme">
+  <section id="readme">
   {% capture readme_content %}{% include_relative README.md %}{% endcapture %}
   {{ readme_content | markdownify }}
-  </section>-->
-  <section id="readme">
+  </section>
+  <!--<section id="readme">
     {%- comment -%}
     {%- endcomment -%}
     {% capture raw %}{% include_relative README.md %}{% endcapture %}
@@ -28,7 +28,7 @@ layout: null
       {% assign to_render = raw %}
     {%- endif -%}
     {{ to_render | markdownify }}
-  </section>
+  </section>-->
 </main>
 </body>
 </html>

@@ -13,6 +13,11 @@ main {
     padding: 20px;
 }
 
+/* hide the very first H1 inside the README section */
+#readme > h1:first-of-type {
+  display: none;
+}
+
 #toc {
     position: fixed;
     left: 0;

@@ -2,6 +2,10 @@
 document.addEventListener('DOMContentLoaded', function() {
     const toc = document.getElementById('toc');
     const readme = document.getElementById('readme');
+    if (readme) {
+        const firstH1 = readme.querySelector('h1');
+        if (firstH1) firstH1.remove();
+    }
     if (!toc || !readme) return;
   
     const ul = document.createElement('ul');

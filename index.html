@@ -13,7 +13,6 @@ title: Home
 <nav id="toc">
 </nav>
 <main>
-  <p>{{ site.description }}</p>
   <section id="readme">
   {% capture readme_content %}{% include_relative README.md %}{% endcapture %}
   {{ readme_content | markdownify }}

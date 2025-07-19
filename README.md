@@ -1,4 +1,4 @@
-# [Market Research](https://github.com/jdejones/jdejones.github.io/blob/main/mresearch.html)
+# [Market Research](https://github.com/jdejones/jdejones.github.io/mresearch.html)
 _________________________________________________________________________________________________________________________________________________________________
 
 # jdejones.github.io

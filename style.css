@@ -6,8 +6,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #034f84;
-    color: #deeaee;
+    /*background-color: #034f84;
+    color: #deeaee;*/
 }
 
 main {
@@ -27,10 +27,10 @@ main {
     width: 200px;
     height: 100%;
     overflow-y: auto;
-    background-color: #034f84;
+    /*background-color: #034f84;*/
     padding: 20px;
     box-sizing: border-box;
-    color: #deeaee;
+    /*color: #deeaee;*/
 }
 
 #toc ul {
@@ -47,4 +47,22 @@ pre {
 
 code {
     font-family: "Courier New", Courier, monospace;
+}
+
+
+a:link {
+    color: #0066cc; /* unvisited link */
+}
+
+a:visited {
+    color: #551a8b; /* visited link */
+}
+
+a:hover {
+    color: #ff6600; /* mouse over link */
+    text-decoration: underline;
+}
+
+a:active {
+    color: #cc0000; /* when link is clicked */
 }

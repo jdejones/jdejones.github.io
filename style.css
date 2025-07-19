@@ -6,7 +6,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #878f99;
+    background-color: #034f84;
+    color: #deeaee;
 }
 
 main {
@@ -26,9 +27,10 @@ main {
     width: 200px;
     height: 100%;
     overflow-y: auto;
-    background-color: #878f99;
+    background-color: #034f84;
     padding: 20px;
     box-sizing: border-box;
+    color: #deeaee;
 }
 
 #toc ul {

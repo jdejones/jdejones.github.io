@@ -2,12 +2,6 @@
 
 _________________________________________________________________________________________________________________________________________________________________
 
-# jdejones.github.io
-
-
-[https://jdejones.github.io/test.html](https://jdejones.github.io/test.html)
-
-_________________________________________________________________________________________________________________________________________________________________
 # StratScratch Solutions
 
 | [Customer-Details](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Customer-Details) |

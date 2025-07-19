@@ -104,7 +104,7 @@ ________________________________________________________________________________
 | [0125-valid-palindrome](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0782-jewels-and-stones) |
-| [1089-remove-vowels-from-a-string](https://github.com/jdejones/jdejones.github.io/tree/master/1089-remove-vowels-from-a-string) |
+| [1089-remove-vowels-from-a-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1089-remove-vowels-from-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1786-count-the-number-of-consistent-strings) |

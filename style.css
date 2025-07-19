@@ -49,6 +49,10 @@ code {
     font-family: "Courier New", Courier, monospace;
 }
 
+a {
+    color: #0066cc; /* default link color */
+    text-decoration: none; /* removes underline */
+}
 
 a:link {
     color: #0066cc; /* unvisited link */

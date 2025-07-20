@@ -162,6 +162,7 @@ ________________________________________________________________________________
 | [0620-not-boring-movies](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1153-product-sales-analysis-i) |
+| [1246-user-activity-for-the-past-30-days-ii](https://github.com/jdejones/jdejones.github.io/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1258-article-views-i) |
 | [1438-find-the-team-size](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1481-students-with-invalid-departments) |

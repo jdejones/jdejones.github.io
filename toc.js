@@ -1,7 +1,8 @@
 // toc.js
 document.addEventListener('DOMContentLoaded', function() {
     const toc = document.getElementById('toc');
-    const readme = document.getElementById('readme');
+    const readme = document.getElementById('readme')
+        || document.querySelector('main');
     if (!toc || !readme) return;
   
     const ul = document.createElement('ul');

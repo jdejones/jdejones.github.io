@@ -159,7 +159,7 @@ ________________________________________________________________________________
 | [0584-find-customer-referee](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0610-triangle-judgement) |
-| [0613-shortest-distance-in-a-line](https://github.com/jdejones/jdejones.github.io/tree/master/0613-shortest-distance-in-a-line) |
+| [0613-shortest-distance-in-a-line](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0613-shortest-distance-in-a-line) |
 | [0620-not-boring-movies](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1153-product-sales-analysis-i) |

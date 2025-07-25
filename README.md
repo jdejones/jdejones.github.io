@@ -45,7 +45,7 @@ ________________________________________________________________________________
 | [3206-find-common-elements-between-two-arrays](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3206-find-common-elements-between-two-arrays) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3446-find-the-number-of-good-pairs-i) |
-| [3472-bitwise-or-of-adjacent-elements](https://github.com/jdejones/jdejones.github.io/tree/master/3472-bitwise-or-of-adjacent-elements) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3472-bitwise-or-of-adjacent-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutionsr/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3581-the-two-sneaky-numbers-of-digitville) |
@@ -229,7 +229,7 @@ ________________________________________________________________________________
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2323-minimum-bit-flips-to-convert-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3093-sum-of-values-at-indices-with-k-set-bits) |
-| [3472-bitwise-or-of-adjacent-elements](https://github.com/jdejones/jdejones.github.io/tree/master/3472-bitwise-or-of-adjacent-elements) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3472-bitwise-or-of-adjacent-elements) |
 ## Design
 |  |
 | ------- |

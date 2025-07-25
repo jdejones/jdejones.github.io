@@ -262,9 +262,9 @@ ________________________________________________________________________________
 ## Linked List
 |  |
 | ------- |
-| [0206-reverse-linked-list](https://github.com/jdejones/jdejones.github.io/tree/master/0206-reverse-linked-list) |
+| [0206-reverse-linked-list](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
-| [0206-reverse-linked-list](https://github.com/jdejones/jdejones.github.io/tree/master/0206-reverse-linked-list) |
+| [0206-reverse-linked-list](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

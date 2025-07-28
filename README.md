@@ -177,7 +177,7 @@ ________________________________________________________________________________
 | [1908-recyclable-and-low-fat-products](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1948-rearrange-products-table) |
-| [1974-find-customers-with-positive-revenue-this-year](https://github.com/jdejones/jdejones.github.io/tree/master/1974-find-customers-with-positive-revenue-this-year) |
+| [1974-find-customers-with-positive-revenue-this-year](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2495-number-of-unique-subjects-taught-by-each-teacher) |

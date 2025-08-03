@@ -129,7 +129,7 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0020-valid-parentheses) |
-| [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1404-print-immutable-linked-list-in-reverse) |
 | [2128-reverse-prefix-of-word](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
@@ -137,7 +137,7 @@ ________________________________________________________________________________
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0557-reverse-words-in-a-string-iii) |
-| [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1404-print-immutable-linked-list-in-reverse) |
 | [2128-reverse-prefix-of-word](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2128-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
@@ -270,10 +270,10 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0206-reverse-linked-list) |
-| [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1404-print-immutable-linked-list-in-reverse) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0206-reverse-linked-list) |
-| [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1404-print-immutable-linked-list-in-reverse) |
 <!---LeetCode Topics End-->

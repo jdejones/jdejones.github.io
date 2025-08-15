@@ -184,7 +184,7 @@ ________________________________________________________________________________
 | [2024-calculate-special-bonus](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2495-number-of-unique-subjects-taught-by-each-teacher) |
-| [2841-bikes-last-time-used](https://github.com/jdejones/jdejones.github.io/tree/master/2841-bikes-last-time-used) |
+| [2841-bikes-last-time-used](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2841-bikes-last-time-used) |
 | [3282-calculate-compressed-mean](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3282-calculate-compressed-mean) |
 | [3286-class-performance](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3286-class-performance) |
 | [3505-find-cities-in-each-state](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3505-find-cities-in-each-state) |

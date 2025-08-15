@@ -17,6 +17,7 @@ ________________________________________________________________________________
 | [0001-two-sum](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/jdejones/jdejones.github.io/tree/master/0088-merge-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1528-kids-with-the-greatest-number-of-candies) |
@@ -135,6 +136,7 @@ ________________________________________________________________________________
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/jdejones/jdejones.github.io/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0557-reverse-words-in-a-string-iii) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1404-print-immutable-linked-list-in-reverse) |
@@ -195,6 +197,7 @@ ________________________________________________________________________________
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jdejones/jdejones.github.io/tree/master/0088-merge-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/2917-count-pairs-whose-sum-is-less-than-target) |

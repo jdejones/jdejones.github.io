@@ -271,7 +271,7 @@ ________________________________________________________________________________
 ## Linked List
 |  |
 | ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/jdejones/jdejones.github.io/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0206-reverse-linked-list) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1404-print-immutable-linked-list-in-reverse) |
 ## Recursion

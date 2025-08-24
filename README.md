@@ -190,7 +190,7 @@ ________________________________________________________________________________
 | [3282-calculate-compressed-mean](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3282-calculate-compressed-mean) |
 | [3286-class-performance](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3286-class-performance) |
 | [3505-find-cities-in-each-state](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3505-find-cities-in-each-state) |
-| [3660-second-highest-salary-ii](https://github.com/jdejones/jdejones.github.io/tree/master/3660-second-highest-salary-ii) |
+| [3660-second-highest-salary-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3660-second-highest-salary-ii) |
 | [3711-first-letter-capitalization-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3711-first-letter-capitalization-ii) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3803-find-products-with-valid-serial-numbers) |
 | [3816-dna-pattern-recognition](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/3816-dna-pattern-recognition) |

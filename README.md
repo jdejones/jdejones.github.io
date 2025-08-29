@@ -162,7 +162,7 @@ ________________________________________________________________________________
 | [0183-customers-who-never-order](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0584-find-customer-referee) |
-| [0586-customer-placing-the-largest-number-of-orders](https://github.com/jdejones/jdejones.github.io/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0610-triangle-judgement) |
 | [0613-shortest-distance-in-a-line](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0613-shortest-distance-in-a-line) |

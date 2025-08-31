@@ -1,8 +1,16 @@
-# [Market Research](https://jdejones.github.io/Market_Research/index.html)
+# ABOUT
+This site is intended to display examples of my skills for working with 
+python and large, complex datasets. This is primarily through problems I've solved using LeetCode and StrataScratch; although I've also developed a codebase for processing stock market data. To avoid a wall of text I've placed links to the problem solutions I've completed at the bottom of this page. If you're unfamiliar with what LeetCode and StratScratch are the following paragraph is an explanation.
+
+LeetCode is a platform that provides coding problems in several languages at varying difficulties and I've used to to solve general python problems and problems with pandas. StrataScratch is more ideal for working with dataset; however, I found it after I started working with LeetCode and have solved fewer problems on the platform. I'll focus on it after completing pandas problems on LeetCode.
 
 _________________________________________________________________________________________________________________________________________________________________
 
-# StratScratch Solutions
+# [Market Research](https://jdejones.github.io/Market_Research/index.html)
+The link above is to a page that will contain some examples of how I process market data. It may be updated infrequently as this site isn't intended to advertise my market research. Also, the github repository for my codebase can be found here [market_data](https://github.com/jdejones/market_data)
+_________________________________________________________________________________________________________________________________________________________________
+
+# StratsScratch Solutions
 
 | [Customer-Details](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Customer-Details) |
 | [Number-of-Shipments-Per-Month](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Number-of-Shipments-Per-Month) |

@@ -8,6 +8,7 @@ ________________________________________________________________________________
 
 # [Market Research](https://jdejones.github.io/Market_Research/index.html)
 The link above is to a page that will contain some examples of how I process market data. It may be updated infrequently as this site isn't intended to advertise my market research. Also, the github repository for my codebase can be found here [market_data](https://github.com/jdejones/market_data)
+
 _________________________________________________________________________________________________________________________________________________________________
 
 # StratsScratch Solutions

@@ -2,7 +2,7 @@
 This site is intended to display examples of my skills for working with 
 python and large, complex datasets. This is primarily through problems I've solved using LeetCode and StrataScratch; although I've also developed a codebase for processing stock market data. To avoid a wall of text I've placed links to the problem solutions I've completed at the bottom of this page. If you're unfamiliar with what LeetCode and StratScratch are the following paragraph is an explanation.
 
-LeetCode is a platform that provides coding problems in several languages at varying difficulties and I've used to to solve general python problems and problems with pandas. StrataScratch is more ideal for working with dataset; however, I found it after I started working with LeetCode and have solved fewer problems on the platform. I'll focus on it after completing pandas problems on LeetCode.
+LeetCode is a platform that provides coding problems in several languages at varying difficulties and I've used it to solve general python problems and problems with the python library pandas. StrataScratch is more ideal for solving problems with datasets; however, I found it after I started working with LeetCode and therefore have solved fewer problems on the platform. I'll focus on it after completing all pandas problems on LeetCode.
 
 _________________________________________________________________________________________________________________________________________________________________
 

@@ -1,6 +1,6 @@
 # ABOUT
 This site is intended to display examples of my skills for working with 
-python and large, complex datasets. This is primarily through problems I've solved using LeetCode and StrataScratch; although I've also developed a codebase for processing stock market data. You may need to create a github account, if you don't have one, to view the code. To avoid a wall of text I've placed links to the problem solutions I've completed at the bottom of this page. If you're unfamiliar with what LeetCode and StratScratch are the following paragraph is an explanation.
+python and large, complex datasets. This is primarily through problems I've solved using LeetCode and StrataScratch; although I've also developed a codebase for processing stock market data. You may need to create a github account, if you don't have one, to view the code. To avoid a wall of text I've placed links to the problem solutions I've completed at the bottom of this page. If you're unfamiliar with what LeetCode and StrataScratch are the following paragraph is an explanation.
 
 LeetCode is a platform that provides coding problems in several languages at varying difficulties and I've used it to solve general python problems and problems with the python library pandas. StrataScratch is more ideal for solving problems with datasets; however, I found it after I started working with LeetCode and therefore have solved fewer problems on the platform. I'll focus on it after completing all pandas problems on LeetCode.
 
@@ -16,7 +16,7 @@ The link above is to a page that will contain some examples of how I process mar
 
 _________________________________________________________________________________________________________________________________________________________________
 
-# StratsScratch Solutions
+# StrataScratch Solutions
 
 | [Customer-Details](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Customer-Details) |
 | [Number-of-Shipments-Per-Month](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Number-of-Shipments-Per-Month) |

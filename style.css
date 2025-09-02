@@ -51,7 +51,7 @@ code {
 
 a {
     color: #034f84; /* default link color */
-    text-decoration: none; /* removes underline */
+    text-decoration: underline; /* sets underline */
 }
 
 a:link {

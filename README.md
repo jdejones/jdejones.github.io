@@ -7,7 +7,7 @@ LeetCode is a platform that provides coding problems in several languages at var
 _________________________________________________________________________________________________________________________________________________________________
 
 # [Bioinformatics](https://github.com/jdejones/Bioinformatics_Workspace)
-My bioinformatics includes functions made from the biopython library; for example, primer design, parsing FASTA files, and GC content calculation.
+My bioinformatics repository includes functions made from the biopython library; for example, primer design, parsing FASTA files, and GC content calculation.
 
 _________________________________________________________________________________________________________________________________________________________________
 

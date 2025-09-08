@@ -19,6 +19,7 @@ ________________________________________________________________________________
 #Kaggle Datasets
 
 [Healthcare Dataset](https://github.com/jdejones/jdejones.github.io/blob/main/kaggle_datasets/healthcare/ml_healthcare_dataset.ipynb)
+
 _________________________________________________________________________________________________________________________________________________________________
 
 # StrataScratch Solutions

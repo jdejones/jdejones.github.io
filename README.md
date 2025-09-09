@@ -187,7 +187,7 @@ ________________________________________________________________________________
 | [0595-big-countries](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0596-classes-with-at-least-5-students) |
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0597-friend-requests-i-overall-acceptance-rate) |
-| [0603-consecutive-available-seats](https://github.com/jdejones/jdejones.github.io/tree/master/0603-consecutive-available-seats) |
+| [0603-consecutive-available-seats](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0603-consecutive-available-seats) |
 | [0610-triangle-judgement](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0610-triangle-judgement) |
 | [0613-shortest-distance-in-a-line](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0613-shortest-distance-in-a-line) |
 | [0620-not-boring-movies](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0620-not-boring-movies) |

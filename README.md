@@ -193,7 +193,7 @@ ________________________________________________________________________________
 | [0619-biggest-single-number](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/0627-swap-salary) |
-| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jdejones/jdejones.github.io/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1153-product-sales-analysis-i) |
 | [1154-product-sales-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1154-product-sales-analysis-ii) |
 | [1180-game-play-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1180-game-play-analysis-ii) |

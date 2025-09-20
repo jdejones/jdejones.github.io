@@ -196,7 +196,7 @@ ________________________________________________________________________________
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1153-product-sales-analysis-i) |
 | [1154-product-sales-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1154-product-sales-analysis-ii) |
-| [1161-project-employees-i](https://github.com/jdejones/jdejones.github.io/tree/master/1161-project-employees-i) |
+| [1161-project-employees-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1161-project-employees-i) |
 | [1172-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1172-sales-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1180-game-play-analysis-ii) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jdejones/jdejones.github.io/blob/main/1246-user-activity-for-the-past-30-days-ii) |

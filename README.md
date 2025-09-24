@@ -200,6 +200,7 @@ ________________________________________________________________________________
 | [1161-project-employees-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1161-project-employees-i) |
 | [1162-project-employees-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1162-project-employees-ii) |
 | [1172-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1172-sales-analysis-i) |
+| [1173-sales-analysis-ii](https://github.com/jdejones/jdejones.github.io/tree/master/1173-sales-analysis-ii) |
 | [1180-game-play-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1180-game-play-analysis-ii) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jdejones/jdejones.github.io/blob/main/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1258-article-views-i) |

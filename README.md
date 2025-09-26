@@ -204,6 +204,7 @@ ________________________________________________________________________________
 | [1174-sales-analysis-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1174-sales-analysis-iii) |
 | [1180-game-play-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1180-game-play-analysis-ii) |
 | [1215-reported-posts](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1215-reported-posts) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/jdejones/jdejones.github.io/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jdejones/jdejones.github.io/blob/main/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1258-article-views-i) |
 | [1438-find-the-team-size](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1438-find-the-team-size) |

@@ -208,7 +208,7 @@ ________________________________________________________________________________
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jdejones/jdejones.github.io/blob/main/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1258-article-views-i) |
 | [1291-immediate-food-delivery-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1291-immediate-food-delivery-i) |
-| [1301-reformat-department-table](https://github.com/jdejones/jdejones.github.io/tree/master/1301-reformat-department-table) |
+| [1301-reformat-department-table](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1301-reformat-department-table) |
 | [1438-find-the-team-size](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1481-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1509-replace-employee-id-with-the-unique-identifier) |

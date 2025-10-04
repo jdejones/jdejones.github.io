@@ -209,7 +209,7 @@ ________________________________________________________________________________
 | [1258-article-views-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1258-article-views-i) |
 | [1291-immediate-food-delivery-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1291-immediate-food-delivery-i) |
 | [1301-reformat-department-table](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1301-reformat-department-table) |
-| [1338-queries-quality-and-percentage](https://github.com/jdejones/jdejones.github.io/tree/master/1338-queries-quality-and-percentage) |
+| [1338-queries-quality-and-percentage](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1338-queries-quality-and-percentage) |
 | [1377-number-of-comments-per-post](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1377-number-of-comments-per-post) |
 | [1438-find-the-team-size](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1481-students-with-invalid-departments) |

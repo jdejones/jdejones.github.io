@@ -212,6 +212,7 @@ ________________________________________________________________________________
 | [1338-queries-quality-and-percentage](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1338-queries-quality-and-percentage) |
 | [1377-number-of-comments-per-post](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1377-number-of-comments-per-post) |
 | [1415-students-and-examinations](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1415-students-and-examinations) |
+| [1425-weather-type-in-each-country](https://github.com/jdejones/jdejones.github.io/tree/master/1425-weather-type-in-each-country) |
 | [1438-find-the-team-size](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1481-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1509-replace-employee-id-with-the-unique-identifier) |

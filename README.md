@@ -1,6 +1,6 @@
 # ABOUT
 This site is intended to display examples of my skills for working with 
-python and large, complex datasets. It also serves as exercises in complex problem solving. This is primarily through problems I've solved using LeetCode and StrataScratch; although I've also developed a codebase for processing stock [market data](https://github.com/jdejones/market_data). You may need to create a github account, if you don't have one, to view the code. To avoid a wall of text I've placed links to the problem solutions I've completed at the bottom of this page. As the purpose of these solutions is to exercise problem solving I don't use A.I. to solve the leetcode and stratascratch problems. My codebase is mostly my code combined with some code prompted from A.I. If you're unfamiliar with what LeetCode and StrataScratch are the following paragraph is an explanation.
+python and large, complex datasets. It also serves as exercises in complex problem solving. This is primarily through problems I've solved using LeetCode and StrataScratch; although I've also developed a codebase for processing stock [market data](https://github.com/jdejones/market_data/blob/main/README.md). You may need to create a github account, if you don't have one, to view the code. To avoid a wall of text I've placed links to the problem solutions I've completed at the bottom of this page. As the purpose of these solutions is to exercise problem solving I don't use A.I. to solve the leetcode and stratascratch problems. My codebase is mostly my code combined with some code prompted from A.I. If you're unfamiliar with what LeetCode and StrataScratch are the following paragraph is an explanation.
 
 LeetCode is a platform that provides coding problems in several languages at varying difficulties and I've used it to solve general python problems and problems with the python library pandas. StrataScratch is more ideal for solving problems with datasets; however, I found it after I started working with LeetCode and therefore have solved fewer problems on the platform. I'll focus on it after completing all pandas problems on LeetCode.
 
@@ -198,10 +198,21 @@ ________________________________________________________________________________
 | [1153-product-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1153-product-sales-analysis-i) |
 | [1154-product-sales-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1154-product-sales-analysis-ii) |
 | [1161-project-employees-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1161-project-employees-i) |
+| [1162-project-employees-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1162-project-employees-ii) |
 | [1172-sales-analysis-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1172-sales-analysis-i) |
+| [1173-sales-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1173-sales-analysis-ii) |
+| [1174-sales-analysis-iii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1174-sales-analysis-iii) |
 | [1180-game-play-analysis-ii](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1180-game-play-analysis-ii) |
+| [1215-reported-posts](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1215-reported-posts) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1245-user-activity-for-the-past-30-days-i) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jdejones/jdejones.github.io/blob/main/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1258-article-views-i) |
+| [1291-immediate-food-delivery-i](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1291-immediate-food-delivery-i) |
+| [1301-reformat-department-table](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1301-reformat-department-table) |
+| [1338-queries-quality-and-percentage](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1338-queries-quality-and-percentage) |
+| [1377-number-of-comments-per-post](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1377-number-of-comments-per-post) |
+| [1415-students-and-examinations](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1415-students-and-examinations) |
+| [1425-weather-type-in-each-country](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1425-weather-type-in-each-country) |
 | [1438-find-the-team-size](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1481-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jdejones/jdejones.github.io/blob/main/leetcode_solutions/1509-replace-employee-id-with-the-unique-identifier) |

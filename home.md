@@ -6,7 +6,7 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 
 # Recent commits
-<div id="recent-commits" class="recent-commits" data-user="jdejones" data-per-page="3">
+<div id="recent-commits-widget" class="recent-commits" data-user="jdejones" data-per-page="3">
 Loading recent commits…
 </div>
 

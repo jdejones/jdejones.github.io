@@ -5,7 +5,7 @@
 // Fallback: GitHub public events (PushEvent) for recent activity.
 
 document.addEventListener('DOMContentLoaded', function () {
-  var mount = document.getElementById('recent-commits');
+  var mount = document.getElementById('recent-commits-widget');
   if (!mount) return;
 
   var perPageAttr = mount.getAttribute('data-per-page');

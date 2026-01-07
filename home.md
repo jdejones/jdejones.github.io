@@ -4,6 +4,12 @@ python and large, complex datasets. It also serves as exercises in complex probl
 
 LeetCode is a platform that provides coding problems in several languages at varying difficulties and I've used it to solve general python problems and problems with the python library pandas. StrataScratch is more ideal for solving problems with datasets; however, I found it after I started working with LeetCode and therefore have solved fewer problems on the platform. I'll focus on it after completing all pandas problems on LeetCode.
 
+
+# Recent commits
+<div id="recent-commits" class="recent-commits" data-per-page="3">
+Loading recent commits…
+</div>
+
 _________________________________________________________________________________________________________________________________________________________________
 
 # [Bioinformatics](https://github.com/jdejones/Bioinformatics_Workspace)

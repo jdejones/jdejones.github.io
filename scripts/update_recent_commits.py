@@ -25,6 +25,7 @@ from pathlib import Path
 
 START_MARKER = "<!-- RECENT_COMMITS_START -->"
 END_MARKER = "<!-- RECENT_COMMITS_END -->"
+CENTRAL_TZ_NAME = "America/Chicago"
 
 
 def main() -> int:
@@ -105,15 +106,8 @@ def http_get_json(url: str, *, headers: dict[str, str]) -> dict:
 
 def render_markdown(items: list[dict]) -> str:
     lines: list[str] = []
-    # Set timezone for US Central (Chicago), handling daylight savings automatically
-    try:
-        from zoneinfo import ZoneInfo
-        tz = ZoneInfo("America/Chicago")
-        now = dt.datetime.now(tz).strftime("%Y-%m-%d %H:%M %Z")
-    except ImportError:
-        # Python <3.9 fallback: no tz support; UTC fallback
-        now = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    lines.append(f"_Last updated: {now}_")
+    now_central = to_central(dt.datetime.now(dt.timezone.utc))
+    lines.append(f"_Last updated (Central): {now_central.strftime('%Y-%m-%d %H:%M %Z')}_")
     lines.append("")
 
     if not items:
@@ -140,7 +134,7 @@ def render_markdown(items: list[dict]) -> str:
 
         url = str(item.get("html_url") or "")
 
-        date_short = format_date(date)
+        date_short = format_datetime(date)
         repo_part = f"**{repo}**" if repo else "**(unknown repo)**"
         title = msg or "(no message)"
         link = f"[{escape_md(title)}]({url})" if url else escape_md(title)
@@ -168,14 +162,15 @@ def replace_between_markers(text: str, new_inner: str) -> str:
     return prefix + inner + suffix
 
 
-def format_date(iso: str) -> str:
+def format_datetime(iso: str) -> str:
     if not iso:
         return ""
     try:
         # GitHub returns ISO8601 like 2026-01-07T12:34:56Z
         iso_norm = iso.replace("Z", "+00:00")
         d = dt.datetime.fromisoformat(iso_norm)
-        return d.strftime("%Y-%m-%d")
+        d_central = to_central(d)
+        return d_central.strftime("%Y-%m-%d %H:%M %Z")
     except Exception:
         return iso
 
@@ -183,6 +178,21 @@ def format_date(iso: str) -> str:
 def escape_md(s: str) -> str:
     # Minimal escaping for markdown link text
     return s.replace("[", "\\[").replace("]", "\\]")
+
+
+def to_central(d: dt.datetime) -> dt.datetime:
+    """
+    Convert an aware datetime to US Central time (America/Chicago).
+    Falls back to the original datetime if zoneinfo isn't available.
+    """
+    if d.tzinfo is None:
+        d = d.replace(tzinfo=dt.timezone.utc)
+    try:
+        from zoneinfo import ZoneInfo  # py3.9+
+
+        return d.astimezone(ZoneInfo(CENTRAL_TZ_NAME))
+    except Exception:
+        return d
 
 
 if __name__ == "__main__":

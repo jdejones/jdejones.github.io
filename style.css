@@ -70,3 +70,33 @@ a:hover {
 a:active {
     color: #cc0000; /* when link is clicked */
 }
+
+.recent-commits {
+    margin-top: 10px;
+}
+
+.recent-commits-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.recent-commits-item {
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(3, 79, 132, 0.15);
+}
+
+.recent-commits-item:last-child {
+    border-bottom: none;
+}
+
+.recent-commits-title {
+    display: inline-block;
+    font-weight: 600;
+}
+
+.recent-commits-meta {
+    margin-top: 4px;
+    font-size: 0.9em;
+    opacity: 0.9;
+}

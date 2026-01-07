@@ -1,112 +1,268 @@
 // recent_commits.js
-// Renders the latest commits for this GitHub Pages repo into #recent-commits.
+// Renders your latest (public) commits across all repositories into #recent-commits.
+//
+// Primary source: GitHub Search API (commits) filtered by author.
+// Fallback: GitHub public events (PushEvent) for recent activity.
 
-document.addEventListener('DOMContentLoaded', () => {
-  const mount = document.getElementById('recent-commits');
+document.addEventListener('DOMContentLoaded', function () {
+  var mount = document.getElementById('recent-commits');
   if (!mount) return;
 
-  const perPageAttr = mount.getAttribute('data-per-page');
-  const perPage = Math.max(1, Math.min(10, Number(perPageAttr || 3) || 3));
+  var perPageAttr = mount.getAttribute('data-per-page');
+  var perPage = clampInt(perPageAttr, 3, 1, 10);
 
-  const repoInfo = getRepoInfo();
-  if (!repoInfo) {
-    mount.innerHTML = '<p>Unable to determine repository for recent commits.</p>';
-    return;
-  }
+  var username = getUsername(mount) || 'jdejones';
 
-  const { owner, repo } = repoInfo;
-  const apiUrl = `https://api.github.com/repos/${encodeURIComponent(owner)}/${encodeURIComponent(repo)}/commits?per_page=${perPage}`;
-
-  fetch(apiUrl, {
-    headers: {
-      'Accept': 'application/vnd.github+json'
-    }
-  })
-    .then(async (res) => {
-      if (!res.ok) {
-        const text = await res.text().catch(() => '');
-        throw new Error(`GitHub API error (${res.status}): ${text || res.statusText}`);
-      }
-      return res.json();
+  renderLoading(mount);
+  fetchLatestCommitsByAuthor(username, perPage)
+    .then(function (items) {
+      if (!items || !items.length) throw new Error('No commits returned.');
+      renderCommitSearchResults(mount, items);
     })
-    .then((commits) => renderCommits(mount, commits, owner, repo))
-    .catch((err) => {
-      // Keep this user-friendly; details still visible in DevTools.
+    .catch(function (err) {
+      // Fallback: public events (limited window, but useful if search is blocked)
       console.error(err);
-      mount.innerHTML = '<p>Could not load recent commits right now.</p>';
+      fetchLatestCommitsFromEvents(username, perPage)
+        .then(function (commits) {
+          if (!commits || !commits.length) throw new Error('No recent public commits found.');
+          renderEventCommits(mount, commits);
+        })
+        .catch(function (err2) {
+          console.error(err2);
+          renderError(mount, 'Could not load recent commits right now (GitHub API).');
+        });
     });
 });
 
-function getRepoInfo() {
-  // Optional manual override:
-  // <div id="recent-commits" data-owner="..." data-repo="...">
-  const mount = document.getElementById('recent-commits');
-  const owner = mount?.getAttribute('data-owner')?.trim();
-  const repo = mount?.getAttribute('data-repo')?.trim();
-  if (owner && repo) return { owner, repo };
+function fetchLatestCommitsByAuthor(username, perPage) {
+  // Commit search may require a special Accept header in some environments.
+  var q = encodeURIComponent('author:' + username);
+  var url =
+    'https://api.github.com/search/commits?q=' +
+    q +
+    '&sort=committer-date&order=desc&per_page=' +
+    encodeURIComponent(String(perPage));
 
-  // Auto-detect for user/org GitHub Pages: {username}.github.io -> repo is {username}.github.io
-  const host = (window.location.hostname || '').toLowerCase();
-  const m = host.match(/^([a-z0-9-]+)\.github\.io$/);
-  if (m) {
-    const username = m[1];
-    return { owner: username, repo: `${username}.github.io` };
-  }
-
-  // Fallback (this is your current repo name; safe default for local previews too)
-  return { owner: 'jdejones', repo: 'jdejones.github.io' };
+  return fetchJson(url, {
+    Accept:
+      'application/vnd.github.cloak-preview+json, application/vnd.github+json'
+  }).then(function (json) {
+    return json && json.items ? json.items : [];
+  });
 }
 
-function renderCommits(mount, commits, owner, repo) {
-  if (!Array.isArray(commits) || commits.length === 0) {
-    mount.innerHTML = '<p>No commits found.</p>';
-    return;
-  }
+function fetchLatestCommitsFromEvents(username, perPage) {
+  // Note: events are time-limited and only include public activity.
+  var url =
+    'https://api.github.com/users/' +
+    encodeURIComponent(username) +
+    '/events/public?per_page=30';
 
-  const ul = document.createElement('ul');
+  return fetchJson(url, { Accept: 'application/vnd.github+json' }).then(function (
+    events
+  ) {
+    var commits = [];
+    if (!events || !events.length) return commits;
+
+    for (var i = 0; i < events.length; i++) {
+      var e = events[i];
+      if (!e || e.type !== 'PushEvent') continue;
+      if (!e.payload || !e.payload.commits || !e.repo) continue;
+
+      for (var j = 0; j < e.payload.commits.length; j++) {
+        var c = e.payload.commits[j];
+        // Only include commits attributed to this user (best-effort; events are already user-scoped)
+        commits.push({
+          repo: e.repo.name,
+          sha: c && c.sha ? c.sha : '',
+          message: c && c.message ? c.message : '',
+          created_at: e.created_at || ''
+        });
+        if (commits.length >= perPage) return commits;
+      }
+    }
+    return commits.slice(0, perPage);
+  });
+}
+
+function renderCommitSearchResults(mount, items) {
+  var ul = document.createElement('ul');
   ul.className = 'recent-commits-list';
 
-  commits.forEach((c) => {
-    const msg = (c?.commit?.message || '').split('\n')[0].trim();
-    const sha = (c?.sha || '').slice(0, 7);
-    const htmlUrl = c?.html_url || `https://github.com/${owner}/${repo}/commit/${c?.sha || ''}`;
-    const dateStr = c?.commit?.author?.date || c?.commit?.committer?.date;
-    const author = c?.commit?.author?.name || c?.commit?.committer?.name || '';
+  for (var i = 0; i < items.length; i++) {
+    var item = items[i] || {};
+    var commit = item.commit || {};
+    var msg = firstLine((commit.message || '').trim());
+    var sha = (item.sha || '').slice(0, 7);
+    var commitUrl = item.html_url || '';
+    var repoFullName =
+      item.repository && item.repository.full_name ? item.repository.full_name : '';
+    var repoUrl =
+      item.repository && item.repository.html_url ? item.repository.html_url : '';
+    var dateStr =
+      commit.committer && commit.committer.date
+        ? commit.committer.date
+        : commit.author && commit.author.date
+          ? commit.author.date
+          : '';
 
-    const li = document.createElement('li');
-    li.className = 'recent-commits-item';
-
-    const a = document.createElement('a');
-    a.href = htmlUrl;
-    a.target = '_blank';
-    a.rel = 'noopener noreferrer';
-    a.textContent = msg || sha || 'Commit';
-
-    const meta = document.createElement('div');
-    meta.className = 'recent-commits-meta';
-    meta.textContent = formatMeta({ sha, author, dateStr });
-
-    li.appendChild(a);
-    li.appendChild(meta);
-    ul.appendChild(li);
-  });
+    ul.appendChild(
+      buildCommitListItem({
+        title: msg || sha || 'Commit',
+        url: commitUrl,
+        metaLeft: repoFullName,
+        metaLeftUrl: repoUrl,
+        metaRight: joinMeta([sha, formatDate(dateStr)])
+      })
+    );
+  }
 
   mount.innerHTML = '';
   mount.appendChild(ul);
 }
 
-function formatMeta({ sha, author, dateStr }) {
-  const parts = [];
-  if (sha) parts.push(sha);
-  if (author) parts.push(author);
-  if (dateStr) parts.push(formatDate(dateStr));
-  return parts.join(' • ');
+function renderEventCommits(mount, commits) {
+  var ul = document.createElement('ul');
+  ul.className = 'recent-commits-list';
+
+  for (var i = 0; i < commits.length; i++) {
+    var c = commits[i] || {};
+    var repoFullName = c.repo || '';
+    var sha = (c.sha || '').slice(0, 7);
+    var msg = firstLine((c.message || '').trim());
+    var url =
+      repoFullName && c.sha
+        ? 'https://github.com/' + repoFullName + '/commit/' + c.sha
+        : '';
+    var repoUrl = repoFullName ? 'https://github.com/' + repoFullName : '';
+
+    ul.appendChild(
+      buildCommitListItem({
+        title: msg || sha || 'Commit',
+        url: url,
+        metaLeft: repoFullName,
+        metaLeftUrl: repoUrl,
+        metaRight: joinMeta([sha, formatDate(c.created_at || '')])
+      })
+    );
+  }
+
+  mount.innerHTML = '';
+  mount.appendChild(ul);
+}
+
+function buildCommitListItem(opts) {
+  var li = document.createElement('li');
+  li.className = 'recent-commits-item';
+
+  var a = document.createElement('a');
+  a.className = 'recent-commits-title';
+  a.href = opts.url || '#';
+  a.target = '_blank';
+  a.rel = 'noopener noreferrer';
+  a.textContent = opts.title || 'Commit';
+  li.appendChild(a);
+
+  var meta = document.createElement('div');
+  meta.className = 'recent-commits-meta';
+
+  if (opts.metaLeft) {
+    if (opts.metaLeftUrl) {
+      var repoA = document.createElement('a');
+      repoA.href = opts.metaLeftUrl;
+      repoA.target = '_blank';
+      repoA.rel = 'noopener noreferrer';
+      repoA.textContent = opts.metaLeft;
+      meta.appendChild(repoA);
+    } else {
+      var repoSpan = document.createElement('span');
+      repoSpan.textContent = opts.metaLeft;
+      meta.appendChild(repoSpan);
+    }
+  }
+
+  if (opts.metaRight) {
+    var right = document.createElement('span');
+    right.className = 'recent-commits-meta-right';
+    right.textContent = opts.metaRight;
+    meta.appendChild(document.createTextNode(' • '));
+    meta.appendChild(right);
+  }
+
+  li.appendChild(meta);
+  return li;
+}
+
+function fetchJson(url, headersObj) {
+  var headers = headersObj || {};
+  return fetch(url, { headers: headers }).then(function (res) {
+    if (!res.ok) {
+      return res.text().then(function (txt) {
+        throw new Error('GitHub API error (' + res.status + '): ' + (txt || res.statusText));
+      });
+    }
+    return res.json();
+  });
+}
+
+function getUsername(mount) {
+  var attr = mount.getAttribute('data-user');
+  if (attr && attr.trim()) return attr.trim();
+
+  // Auto-detect for user/org GitHub Pages: {username}.github.io
+  var host = (window.location.hostname || '').toLowerCase();
+  var m = host.match(/^([a-z0-9-]+)\.github\.io$/);
+  if (m && m[1]) return m[1];
+  return '';
+}
+
+function clampInt(value, fallback, min, max) {
+  var n = parseInt(value, 10);
+  if (isNaN(n)) n = fallback;
+  if (n < min) n = min;
+  if (n > max) n = max;
+  return n;
+}
+
+function firstLine(s) {
+  var idx = s.indexOf('\n');
+  return idx >= 0 ? s.slice(0, idx) : s;
+}
+
+function joinMeta(parts) {
+  var out = [];
+  for (var i = 0; i < parts.length; i++) {
+    if (parts[i]) out.push(parts[i]);
+  }
+  return out.join(' • ');
 }
 
 function formatDate(iso) {
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso;
-  return d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: '2-digit' });
+  if (!iso) return '';
+  var d = new Date(iso);
+  if (isNaN(d.getTime())) return iso;
+  return d.toLocaleDateString(undefined, {
+    year: 'numeric',
+    month: 'short',
+    day: '2-digit'
+  });
+}
+
+function renderLoading(mount) {
+  mount.innerHTML = '<p>Loading recent commits…</p>';
+}
+
+function renderError(mount, msg) {
+  mount.innerHTML = '<p>' + escapeHtml(msg) + '</p>';
+}
+
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
 }
 
 

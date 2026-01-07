@@ -105,7 +105,14 @@ def http_get_json(url: str, *, headers: dict[str, str]) -> dict:
 
 def render_markdown(items: list[dict]) -> str:
     lines: list[str] = []
-    now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    # Set timezone for US Central (Chicago), handling daylight savings automatically
+    try:
+        from zoneinfo import ZoneInfo
+        tz = ZoneInfo("America/Chicago")
+        now = dt.datetime.now(tz).strftime("%Y-%m-%d %H:%M %Z")
+    except ImportError:
+        # Python <3.9 fallback: no tz support; UTC fallback
+        now = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     lines.append(f"_Last updated: {now}_")
     lines.append("")
 

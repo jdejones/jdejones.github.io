@@ -107,7 +107,7 @@ def http_get_json(url: str, *, headers: dict[str, str]) -> dict:
 def render_markdown(items: list[dict]) -> str:
     lines: list[str] = []
     now_central = to_central(dt.datetime.now(dt.timezone.utc))
-    lines.append(f"_Last updated (Central): {now_central.strftime('%Y-%m-%d %H:%M %Z')}_")
+    lines.append(f"_Last updated: {now_central.strftime('%Y-%m-%d %H:%M %Z')}_")
     lines.append("")
 
     if not items:
@@ -136,7 +136,7 @@ def render_markdown(items: list[dict]) -> str:
         repo_url = "github.com/jdejones/" + repo
 
         date_short = format_datetime(date)
-        repo_part = f"**{repo}**({repo_url})" if repo else "**(unknown repo)**"
+        repo_part = f"[**{escape_md(repo)}**]({repo_url})" if repo else "**(unknown repo)**"
         title = msg or "(no message)"
         link = f"[{escape_md(title)}]({url})" if url else escape_md(title)
         suffix = f" — {date_short}" if date_short else ""

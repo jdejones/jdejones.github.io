@@ -15,7 +15,7 @@ title: Home
 <h1>{{ site.title }}</h1>
 <p>{{ site.description }}</p>
 <section id="readme">
-{% capture readme_content %}{% include_relative README.md %}{% endcapture %}
+{% capture readme_content %}{% include_relative home.md %}{% endcapture %}
 {{ readme_content | markdownify }}
 </section>
 </main>

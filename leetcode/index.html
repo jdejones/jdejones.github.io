@@ -1,0 +1,24 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../style.css">
+  <script src="../toc.js" defer></script>
+</head>
+<body>
+<nav id="toc"></nav>
+<main>
+  <p><a href="../index.html">← Back to Home</a></p>
+  <section id="readme">
+    {% capture readme_content %}{% include_relative README.md %}{% endcapture %}
+    {{ readme_content | markdownify }}
+  </section>
+</main>
+</body>
+</html>
+
+

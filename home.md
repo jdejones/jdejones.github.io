@@ -7,11 +7,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-07 07:07 CST_
+_Last updated: 2026-01-08 07:08 CST_
 
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added retrieve_headlines function and changed pandas display option](https://github.com/jdejones/news_tracker/commit/218a236a3e8bf279666ceff654f6f6b5b56e0835) — 2026-01-08 02:46 CST
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added urls to finviz endpoints.](https://github.com/jdejones/news_tracker/commit/07c42b9fb9b7c4289a1558d3370cd67ee5bf1f64) — 2026-01-08 01:26 CST
 - [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Revise ABOUT section for clarity and flow](https://github.com/jdejones/jdejones.github.io/commit/9c0b1c485281e90ab8b041b86eebb903c0fd49dd) — 2026-01-07 05:28 CST
-- [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Added repo link.](https://github.com/jdejones/jdejones.github.io/commit/dcd75f9bd8329474d7b62ee49337661cac3b6e50) — 2026-01-07 03:15 CST
-- [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Added repo link.](https://github.com/jdejones/jdejones.github.io/commit/3fc2fc3ef330178239a684e2e7ae05713498881d) — 2026-01-07 02:45 CST
 <!-- RECENT_COMMITS_END -->
 
 _________________________________________________________________________________________________________________________________________________________________

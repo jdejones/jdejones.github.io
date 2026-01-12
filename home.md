@@ -7,11 +7,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-11 07:00 CST_
+_Last updated: 2026-01-12 07:09 CST_
 
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Created call graph for Finviz_News_Processing.](https://github.com/jdejones/news_tracker/commit/6717d094ee9f52147b4cb7709f4b2372c606efc3) — 2026-01-11 16:04 CST
 - [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added working jupyter notebook to .gitignore.](https://github.com/jdejones/news_tracker/commit/44c2f98f4566600d7ca0b9cb9df231d9c2b244be) — 2026-01-10 03:34 CST
 - [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Translated filings stream to python and improved functionality.](https://github.com/jdejones/news_tracker/commit/a504b613f4ab9e459592b210d2c7b7e80a0981e7) — 2026-01-09 15:35 CST
-- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added retrieve_headlines function and changed pandas display option](https://github.com/jdejones/news_tracker/commit/218a236a3e8bf279666ceff654f6f6b5b56e0835) — 2026-01-08 02:46 CST
 <!-- RECENT_COMMITS_END -->
 
 _________________________________________________________________________________________________________________________________________________________________

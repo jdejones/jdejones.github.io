@@ -7,11 +7,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-13 07:09 CST_
+_Last updated: 2026-01-14 07:08 CST_
 
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added .ipynb to .gitignore.](https://github.com/jdejones/news_tracker/commit/3613cf5f7e932438c922760c50d9c315f1fe3c6d) — 2026-01-13 17:40 CST
 - [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Tracking Finviz_News_Processing.py.](https://github.com/jdejones/news_tracker/commit/e5a10f0b0daaa95e61fc74908258902e42858be7) — 2026-01-12 22:01 CST
 - [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Created script for updating news database.](https://github.com/jdejones/news_tracker/commit/f2784e180472be3dd0c21ffd5dc81b491d0a2a8d) — 2026-01-12 09:48 CST
-- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Created call graph for Finviz_News_Processing.](https://github.com/jdejones/news_tracker/commit/6717d094ee9f52147b4cb7709f4b2372c606efc3) — 2026-01-11 16:04 CST
 <!-- RECENT_COMMITS_END -->
 
 _________________________________________________________________________________________________________________________________________________________________

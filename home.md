@@ -10,11 +10,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-17 06:59 CST_
+_Last updated: 2026-01-18 06:59 CST_
 
-- [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Update README with Seeking Alpha ratings information](https://github.com/jdejones/market_data/commit/623ace8ba744ec65442ff66b3140cd3404434bcd) — 2026-01-17 05:13 CST
-- [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Daily Overview](https://github.com/jdejones/market_data/commit/d4ca0f588bd716f7509e318442c2734743b215b6) — 2026-01-17 05:05 CST
-- [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Daily overview](https://github.com/jdejones/market_data/commit/ba179e75c8bfa4114fe6b406b2f685ec0683c32f) — 2026-01-17 04:56 CST
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Created gui for browsing headlines.](https://github.com/jdejones/news_tracker/commit/9033cd7c5111f36059c02a0b3ace1183903b9143) — 2026-01-18 06:08 CST
+- [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Updated markdown cells.](https://github.com/jdejones/market_data/commit/832e29f19ac7eaf6c8314da4031f0cdbbea440c9) — 2026-01-18 06:07 CST
+- [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Add Daily Overview link to home.md](https://github.com/jdejones/jdejones.github.io/commit/709902f09506783fb74e5e73243fe148849e4964) — 2026-01-17 16:36 CST
 <!-- RECENT_COMMITS_END -->
 
 _________________________________________________________________________________________________________________________________________________________________

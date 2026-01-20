@@ -10,11 +10,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-19 07:12 CST_
+_Last updated: 2026-01-20 07:13 CST_
 
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Updated post scheduling for compatibility with news_headline_poster_gui.py](https://github.com/jdejones/news_tracker/commit/0a99c26322bffc798e906a301fe7394d39df1b51) — 2026-01-19 15:55 CST
 - [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Fix formatting of Recent Notebooks header](https://github.com/jdejones/jdejones.github.io/commit/cf5f5051266e1da473fce13ca085188b673ddf6b) — 2026-01-18 10:42 CST
 - [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Created gui for browsing headlines.](https://github.com/jdejones/news_tracker/commit/9033cd7c5111f36059c02a0b3ace1183903b9143) — 2026-01-18 06:08 CST
-- [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Updated markdown cells.](https://github.com/jdejones/market_data/commit/832e29f19ac7eaf6c8314da4031f0cdbbea440c9) — 2026-01-18 06:07 CST
 <!-- RECENT_COMMITS_END -->
 
 _________________________________________________________________________________________________________________________________________________________________

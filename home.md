@@ -7,7 +7,7 @@ LeetCode is a platform that provides coding problems in several languages at var
 # Recent Notebooks
 
 - [Daily Overview](https://nbviewer.org/github/jdejones/market_data/blob/main/daily_overview.ipynb)
-- [Intraday Clusters](https://github.com/jdejones/market_data/blob/main/intraday_clusters.ipynb)
+- [Intraday Clusters](https://nbviewer.org/github/jdejones/market_data/blob/main/intraday_clusters.ipynb)
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->

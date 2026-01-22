@@ -11,32 +11,15 @@ body {
 }
 
 main {
-    margin-left: 220px;
     padding: 20px;
+    margin: 0 auto;
+    max-width: 900px;
 }
 
 /* hide the very first H1 inside the README section */
 /*#readme > h1:first-of-type {
   display: none;
 }*/
-
-#toc {
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 200px;
-    height: 100%;
-    overflow-y: auto;
-    background-color: #deeaee;
-    padding: 20px;
-    box-sizing: border-box;
-    color: #034f84;
-}
-
-#toc ul {
-    list-style: none;
-    padding-left: 0;
-}
 
 pre {
     background-color: #f4f4f4;

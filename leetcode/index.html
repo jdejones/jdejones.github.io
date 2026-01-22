@@ -8,14 +8,71 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../style.css">
 </head>
-<body>
+<body class="leetcode-page">
 <main>
   <p><a href="../index.html">← Back to Home</a></p>
-  <section id="readme">
-    {% capture readme_content %}{% include_relative README.md %}{% endcapture %}
-    {{ readme_content | markdownify }}
-  </section>
+
+  <div class="leetcode-layout">
+    <aside class="leetcode-sidebar" aria-label="LeetCode topics navigation">
+      <details class="leetcode-sidebar-details" open>
+        <summary>Topics</summary>
+        <nav>
+          <ul id="leetcode-toc" class="leetcode-toc">
+            <!-- Populated by script -->
+          </ul>
+        </nav>
+      </details>
+    </aside>
+
+    <section id="readme" class="leetcode-content">
+      {% capture readme_content %}{% include_relative README.md %}{% endcapture %}
+      {{ readme_content | markdownify }}
+    </section>
+  </div>
 </main>
+
+<script>
+  (function () {
+    const toc = document.getElementById('leetcode-toc');
+    const readme = document.getElementById('readme');
+    if (!toc || !readme) return;
+
+    const headings = Array.from(readme.querySelectorAll('h2'));
+    if (headings.length === 0) return;
+
+    const slugify = (text) =>
+      text
+        .toLowerCase()
+        .trim()
+        .replace(/['"]/g, '')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+
+    const used = new Map();
+    const uniqueId = (base) => {
+      const current = used.get(base) || 0;
+      used.set(base, current + 1);
+      return current === 0 ? base : `${base}-${current + 1}`;
+    };
+
+    for (const h2 of headings) {
+      const text = (h2.textContent || '').trim();
+      if (!text) continue;
+
+      if (!h2.id) {
+        const base = slugify(text) || 'section';
+        h2.id = uniqueId(base);
+      }
+
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = `#${h2.id}`;
+      a.textContent = text;
+      li.appendChild(a);
+      toc.appendChild(li);
+    }
+  })();
+</script>
 </body>
 </html>
 

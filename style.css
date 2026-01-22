@@ -16,6 +16,67 @@ main {
     max-width: 900px;
 }
 
+/* LeetCode page: add a sticky topic sidebar built from ## headings */
+body.leetcode-page main {
+    max-width: 1200px;
+}
+
+.leetcode-layout {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 24px;
+    align-items: start;
+}
+
+.leetcode-sidebar {
+    position: sticky;
+    top: 16px;
+    max-height: calc(100vh - 32px);
+    overflow: auto;
+    padding: 12px;
+    border: 1px solid rgba(3, 79, 132, 0.2);
+    background: rgba(255, 255, 255, 0.35);
+}
+
+.leetcode-sidebar-details > summary {
+    cursor: pointer;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.leetcode-toc {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.leetcode-toc li {
+    margin: 6px 0;
+}
+
+.leetcode-toc a {
+    text-decoration: none;
+}
+
+.leetcode-toc a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+    body.leetcode-page main {
+        max-width: 900px;
+    }
+
+    .leetcode-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .leetcode-sidebar {
+        position: static;
+        max-height: none;
+    }
+}
+
 /* hide the very first H1 inside the README section */
 /*#readme > h1:first-of-type {
   display: none;

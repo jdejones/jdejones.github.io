@@ -17,19 +17,27 @@ _Last updated: 2026-01-21 07:12 CST_
 - [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Fixed symbols related error.](https://github.com/jdejones/market_data/commit/b2730c23f1752560749c10a379d99d7fbb50a178) — 2026-01-20 23:56 CST
 - [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Update link for Intraday Clusters notebook](https://github.com/jdejones/jdejones.github.io/commit/d636e9104223fa2f1579e84075cdb58df0573e51) — 2026-01-20 23:46 CST
 <!-- RECENT_COMMITS_END -->
-
+<!--
 _________________________________________________________________________________________________________________________________________________________________
 
 # [Bioinformatics](https://github.com/jdejones/Bioinformatics_Workspace)
 My bioinformatics repository includes functions made from the biopython library; for example, primer design, parsing FASTA files, and GC content calculation.
-
-_________________________________________________________________________________________________________________________________________________________________
+-->
 <!--
+_________________________________________________________________________________________________________________________________________________________________
+
 # [Market Research](https://jdejones.github.io/Market_Research/index.html)
 The link above is to a page that will contain some examples of how I process market data. It may be updated infrequently as this site isn't intended to advertise my market research. Also, the github repository for my codebase can be found here [market_data](https://github.com/jdejones/market_data)
+-->
+
 
 _________________________________________________________________________________________________________________________________________________________________
--->
+
+# LeetCode
+All LeetCode problem links are kept up-to-date automatically and published here: **[LeetCode solutions](leetcode/)**.
+
+_________________________________________________________________________________________________________________________________________________________________
+
 # [Kaggle Datasets](https://github.com/jdejones/jdejones.github.io/blob/main/kaggle_datasets/healthcare)
 
 [Healthcare Dataset](https://github.com/jdejones/jdejones.github.io/blob/main/kaggle_datasets/healthcare/ml_healthcare_dataset.ipynb)
@@ -41,10 +49,3 @@ ________________________________________________________________________________
 | [Customer-Details](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Customer-Details) |
 | [Number-of-Shipments-Per-Month](https://github.com/jdejones/jdejones.github.io/blob/main/strata_scratch_solutions/Number-of-Shipments-Per-Month) |
 | [MacBookPro-User-Event-Count](https://github.com/jdejones/jdejones.github.io/edit/main/README.md) |
-
-_________________________________________________________________________________________________________________________________________________________________
-
-# LeetCode
-All LeetCode problem links are kept up-to-date automatically and published here: **[LeetCode solutions](leetcode/)**.
-
-

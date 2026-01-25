@@ -12,11 +12,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-24 07:01 CST_
+_Last updated: 2026-01-25 07:03 CST_
 
-- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Created filings stream gui.](https://github.com/jdejones/news_tracker/commit/93f1474d8bfbe0d132ee540b340dc0ce6e6e9646) — 2026-01-23 14:02 CST
-- [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Daily overview notebooks.](https://github.com/jdejones/market_data/commit/1f26efe85d0b1c4037b33e27e212f768081d7d0b) — 2026-01-22 18:52 CST
-- [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Update ABOUT section with news tracker link](https://github.com/jdejones/jdejones.github.io/commit/faecb1bebfeb1019d1de740b144da1bb3d6bf70f) — 2026-01-22 13:13 CST
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added exit conditions.](https://github.com/jdejones/news_tracker/commit/ba529ada6884d6f6510a7c52f8ab125596a05760) — 2026-01-24 21:17 CST
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added for loop for skipped symbols to store_symbol_news.](https://github.com/jdejones/news_tracker/commit/0111416fbc6137bf961f19c14e9b5e070b71f1c7) — 2026-01-24 21:17 CST
+- [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Corrected bug in perf_since_earnings objects.](https://github.com/jdejones/market_data/commit/f262168f95a6ae47c3f26d7fbfabac953cbcf6c5) — 2026-01-24 13:55 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

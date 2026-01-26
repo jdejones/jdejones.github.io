@@ -12,11 +12,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-25 07:03 CST_
+_Last updated: 2026-01-26 07:11 CST_
 
-- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added exit conditions.](https://github.com/jdejones/news_tracker/commit/ba529ada6884d6f6510a7c52f8ab125596a05760) — 2026-01-24 21:17 CST
-- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added for loop for skipped symbols to store_symbol_news.](https://github.com/jdejones/news_tracker/commit/0111416fbc6137bf961f19c14e9b5e070b71f1c7) — 2026-01-24 21:17 CST
-- [**jdejones/market_data**](github.com/jdejones/jdejones/market_data): [Corrected bug in perf_since_earnings objects.](https://github.com/jdejones/market_data/commit/f262168f95a6ae47c3f26d7fbfabac953cbcf6c5) — 2026-01-24 13:55 CST
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Bug fixes.](https://github.com/jdejones/news_tracker/commit/505a321ee2f1333f1630f9c67b6385c9f97e7624) — 2026-01-25 12:52 CST
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Updated interface and added A.I compatibility.](https://github.com/jdejones/news_tracker/commit/055c7cc1e531898eb94f3fe68a601873dd48f909) — 2026-01-25 12:31 CST
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Edited script end text.](https://github.com/jdejones/news_tracker/commit/72b976de531210810108285270c70a061528729c) — 2026-01-25 10:49 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

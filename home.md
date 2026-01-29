@@ -12,11 +12,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-28 07:13 CST_
+_Last updated: 2026-01-29 07:32 CST_
 
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Added feature to load prior filings from today.](https://github.com/jdejones/news_tracker/commit/40eb902af23d0c5c284ee528ca64b8f2d04b67c9) — 2026-01-29 02:05 CST
+- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Edited CLI-friendly color scheme to GUI-friendly color scheme.](https://github.com/jdejones/news_tracker/commit/272168ce45f71126ab447ee8ee18abea19a7183d) — 2026-01-28 20:44 CST
 - [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Updated to denote use of filings_stream_gui.py.](https://github.com/jdejones/news_tracker/commit/a0dafcf187d4a40f5e2c19694f50902247148612) — 2026-01-27 15:01 CST
-- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Edited script end text.](https://github.com/jdejones/news_tracker/commit/198f586155dd094cc85bc9256fc5babd7eb5ecd8) — 2026-01-26 11:59 CST
-- [**jdejones/news_tracker**](github.com/jdejones/jdejones/news_tracker): [Bug fixes.](https://github.com/jdejones/news_tracker/commit/505a321ee2f1333f1630f9c67b6385c9f97e7624) — 2026-01-25 12:52 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

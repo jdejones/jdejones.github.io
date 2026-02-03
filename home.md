@@ -12,11 +12,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-02-02 07:35 CST_
+_Last updated: 2026-02-03 07:35 CST_
 
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge pull request #4 from jdejones/codex/add-timing.py-helper-for-logging-duration](https://github.com/jdejones/Logger/commit/08d40778f15d3dd9e9185d650d3dd33641d4065b) — 2026-02-02 01:34 CST
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge branch 'main' into codex/add-timing.py-helper-for-logging-duration](https://github.com/jdejones/Logger/commit/0b7071cfd065d9b4d0065c9b86aa895a5800c070) — 2026-02-02 01:34 CST
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge pull request #3 from jdejones/codex/create-minimal-gui-app-with-live-log-feed](https://github.com/jdejones/Logger/commit/b3d392f006cb7e831b51d7c4f827ee524386d189) — 2026-02-02 01:33 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Edit time units to seconds.](https://github.com/jdejones/Logger/commit/9a95c219fa804dd657683c4abe7929b1bf66cd8b) — 2026-02-02 16:49 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge pull request #7 from jdejones/codex/create-python-logging-package-with-gui-053kge](https://github.com/jdejones/Logger/commit/13d3721feec644ecbda4a50c56dbbd3d83196eb9) — 2026-02-02 16:04 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Avoid LogRecord name collision in timing logs](https://github.com/jdejones/Logger/commit/c10dea8213c65d0244530e592e9bea648c203ee2) — 2026-02-02 16:03 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

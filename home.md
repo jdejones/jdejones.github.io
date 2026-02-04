@@ -12,11 +12,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-02-03 07:35 CST_
+_Last updated: 2026-02-04 07:35 CST_
 
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Edit time units to seconds.](https://github.com/jdejones/Logger/commit/9a95c219fa804dd657683c4abe7929b1bf66cd8b) — 2026-02-02 16:49 CST
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge pull request #7 from jdejones/codex/create-python-logging-package-with-gui-053kge](https://github.com/jdejones/Logger/commit/13d3721feec644ecbda4a50c56dbbd3d83196eb9) — 2026-02-02 16:04 CST
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Avoid LogRecord name collision in timing logs](https://github.com/jdejones/Logger/commit/c10dea8213c65d0244530e592e9bea648c203ee2) — 2026-02-02 16:03 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Fixed errors from merge.](https://github.com/jdejones/Logger/commit/d1d1d6522e2b9a372f01b7e70263279a1b79e3f6) — 2026-02-03 16:26 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge pull request #10 from jdejones/codex/create-python-logging-package-with-gui-rwsos3](https://github.com/jdejones/Logger/commit/74b22454db69e8e2254245ea86f8a830f1fd8de5) — 2026-02-03 16:08 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge branch 'main' into codex/create-python-logging-package-with-gui-rwsos3](https://github.com/jdejones/Logger/commit/baa4a74ced2e498b832ccf72437dc2bc20d7abd3) — 2026-02-03 16:08 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

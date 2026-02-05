@@ -12,11 +12,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-02-04 07:35 CST_
+_Last updated: 2026-02-05 07:38 CST_
 
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Fixed errors from merge.](https://github.com/jdejones/Logger/commit/d1d1d6522e2b9a372f01b7e70263279a1b79e3f6) — 2026-02-03 16:26 CST
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge pull request #10 from jdejones/codex/create-python-logging-package-with-gui-rwsos3](https://github.com/jdejones/Logger/commit/74b22454db69e8e2254245ea86f8a830f1fd8de5) — 2026-02-03 16:08 CST
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge branch 'main' into codex/create-python-logging-package-with-gui-rwsos3](https://github.com/jdejones/Logger/commit/baa4a74ced2e498b832ccf72437dc2bc20d7abd3) — 2026-02-03 16:08 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Merge pull request #11 from jdejones/codex/update-duration-function-log-units](https://github.com/jdejones/Logger/commit/633a9d15de31757225a606a4b59dec211a7196c4) — 2026-02-05 07:34 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Log durations with single unit](https://github.com/jdejones/Logger/commit/049570c39bcb7bd082691f23b3a4d6b7215d8197) — 2026-02-05 07:34 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Bug fix: events weren't being logged. Broadened scope of logs.](https://github.com/jdejones/Logger/commit/e0e83dfbdf6cd18c8dc604237df2b57e80651688) — 2026-02-04 19:57 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

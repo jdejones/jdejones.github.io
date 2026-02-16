@@ -12,11 +12,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-02-15 07:14 CST_
+_Last updated: 2026-02-16 07:38 CST_
 
-- [**jdejones/Healthcare_Data**](github.com/jdejones/jdejones/Healthcare_Data): [Fixed infinite loop bug.](https://github.com/jdejones/Healthcare_Data/commit/ec79c16f2c43fb658a3a5515b2b83d62e1d19692) — 2026-02-14 00:28 CST
-- [**jdejones/Healthcare_Data**](github.com/jdejones/jdejones/Healthcare_Data): [Added .cursor files to .gitignore.](https://github.com/jdejones/Healthcare_Data/commit/8046a762652259fe86f4a08c3dd1d9f079ecce32) — 2026-02-14 00:27 CST
-- [**jdejones/Prompt_Engineering**](github.com/jdejones/jdejones/Prompt_Engineering): [Created objects for headline sentiment analysis of symbols with elevated activity and volatility.](https://github.com/jdejones/Prompt_Engineering/commit/ebdd265675ab2e80049bbf799aaa59e3d97d6c14) — 2026-02-13 00:21 CST
+- [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Merge pull request #1 from jdejones/codex/create-repository-for-backtrader-strategies](https://github.com/jdejones/Strategies/commit/1e717e3a51b38ffcbfc4ad0ca8b63d15d6622bf8) — 2026-02-15 09:58 CST
+- [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Add backtrader-ready analysis, backtesting, and result storage scaffold](https://github.com/jdejones/Strategies/commit/51a3a05a15c192c94cef814afdc4b712a8d5dee1) — 2026-02-15 09:57 CST
+- [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Initial commit](https://github.com/jdejones/Strategies/commit/06fe689e4bb7bfe7853a1fe33b37d28dd9b39e64) — 2026-02-15 09:09 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

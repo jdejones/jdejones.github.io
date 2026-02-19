@@ -12,11 +12,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-02-18 07:40 CST_
+_Last updated: 2026-02-19 07:42 CST_
 
+- [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Corrected path for loading data.](https://github.com/jdejones/Strategies/commit/0c7d889a2e2ad08a9e4967618eac9182f3dd18ac) — 2026-02-19 01:50 CST
 - [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Corrected path to stored data.](https://github.com/jdejones/Strategies/commit/20f325e3defe129f8ea8f71c703d3dfddc1880af) — 2026-02-17 17:03 CST
 - [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Added working notebook to .gitignore.](https://github.com/jdejones/Strategies/commit/1e31f1b4b4fc9ee98f31a2067a701202b6dc0738) — 2026-02-16 14:06 CST
-- [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Merge pull request #1 from jdejones/codex/create-repository-for-backtrader-strategies](https://github.com/jdejones/Strategies/commit/1e717e3a51b38ffcbfc4ad0ca8b63d15d6622bf8) — 2026-02-15 09:58 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

@@ -24,8 +24,9 @@ Techniques used:
 - Flask for local UI and real time log feed
 
 
- To avoid a wall of text, LeetCode problem links are on a separate page: **[LeetCode solutions](leetcode/)**. As the purpose of these solutions is to exercise problem solving I don't use A.I. to solve the leetcode and stratascratch problems. My codebase is mostly my code combined with some code prompted. If you're unfamiliar with what LeetCode and StrataScratch are the following paragraph is an explanation.
+ To avoid a wall of text, LeetCode problem links are on a separate page: **[LeetCode solutions](leetcode/)**. As the purpose of these solutions is to exercise problem solving I don't use A.I. to solve the leetcode and stratascratch problems. My codebase is mostly my code combined with some code prompted.
 
+If you're unfamiliar with what LeetCode and StrataScratch are the following paragraph is an explanation:
 LeetCode is a platform that provides coding problems in several languages at varying difficulties and I've used it to solve general python problems and problems with the python library pandas. StrataScratch is more ideal for solving problems with datasets; however, I found it after I started working with LeetCode and therefore have solved fewer problems on the platform.
 
 # Recent Notebooks
@@ -35,11 +36,11 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-01-22 07:13 CST_
+_Last updated: 2026-02-21 07:11 CST_
 
-- [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Removed sidebar.](https://github.com/jdejones/jdejones.github.io/commit/5c09972d3712dcc9e7e3f8fc288d5b27c8801e99) — 2026-01-22 05:57 CST
-- [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Edited comments syntax.](https://github.com/jdejones/jdejones.github.io/commit/5092ac29c340c3c914890897f4b9ac171ec289f0) — 2026-01-22 05:46 CST
-- [**jdejones/jdejones.github.io**](github.com/jdejones/jdejones/jdejones.github.io): [Created AGENTS.md.](https://github.com/jdejones/jdejones.github.io/commit/bfa10cab57c64b68f9576c8e55989e5a2fce2ab8) — 2026-01-22 05:09 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Optimize entry appending in index.html by using a document fragment and reversing lines for improved performance and display order.](https://github.com/jdejones/Logger/commit/f26bb98d595aa2daece2c183b141f761a2d9acbb) — 2026-02-20 07:56 CST
+- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Added .cursor files to .gitignore.](https://github.com/jdejones/Logger/commit/4742d4b0df539f576447eac086f3b2c9de40ab4d) — 2026-02-20 00:22 CST
+- [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Corrected path for loading data.](https://github.com/jdejones/Strategies/commit/0c7d889a2e2ad08a9e4967618eac9182f3dd18ac) — 2026-02-19 01:50 CST
 <!-- RECENT_COMMITS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________

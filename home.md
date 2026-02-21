@@ -4,23 +4,23 @@ python and large, complex datasets. It also serves as a display of my exercises 
 
 The following are brief descriptions of my selected repositories:
 ## [market data](https://github.com/jdejones/market_data)
-Used for processing price and company fundamental data.\n
-Techniques used:
+Used for processing price and company fundamental data.
+**Techniques used:**
 - Accessing data via REST API and Websocket
 - MySQL viz sqlalchemy for data storage
 - Threading and multiprocessing for efficient data processing
 
 ## [News Tracker](https://github.com/jdejones/news_tracker)
-Imports, processes, and stores news related data.\n
-Techniques used:
+Imports, processes, and stores news related data.
+**Techniques used:**
 - LLM based text summary
 - GUI for displaying data via PyQT6 and Tkinter
 - REST API and Websocket for importing data
 - MySQL via sqlalchemy for data storage
 
 ## [Logger](https://github.com/jdejones/Logger)
-Interface for centralizing logging across programs.\n
-Techniques used:
+Interface for centralizing logging across programs.
+**Techniques used:**
 - Inheritance from python's logging module
 - decorators
 - Flask for local UI and real time log feed

@@ -22,7 +22,7 @@ Imports, processes, and stores news related data.
 Interface for centralizing logging across programs.
 **Techniques used:**
 - Inheritance from python's logging module
-- decorators
+- Decorators
 - Flask for local UI and real time log feed
 
 

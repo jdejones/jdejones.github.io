@@ -38,12 +38,19 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-02-21 07:11 CST_
+_Last updated: 2026-03-05 14:21 CST_
 
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Optimize entry appending in index.html by using a document fragment and reversing lines for improved performance and display order.](https://github.com/jdejones/Logger/commit/f26bb98d595aa2daece2c183b141f761a2d9acbb) — 2026-02-20 07:56 CST
-- [**jdejones/Logger**](github.com/jdejones/jdejones/Logger): [Added .cursor files to .gitignore.](https://github.com/jdejones/Logger/commit/4742d4b0df539f576447eac086f3b2c9de40ab4d) — 2026-02-20 00:22 CST
-- [**jdejones/Strategies**](github.com/jdejones/jdejones/Strategies): [Corrected path for loading data.](https://github.com/jdejones/Strategies/commit/0c7d889a2e2ad08a9e4967618eac9182f3dd18ac) — 2026-02-19 01:50 CST
+- [**jdejones/news_tracker**](https://github.com/jdejones/news_tracker): [Major update.](https://github.com/jdejones/news_tracker/commit/06e369c8acf7b86c8c7014e6c5c60683a1d413ac) — 2026-03-03 12:48 CST
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added access token for seeking alpha premium features.](https://github.com/jdejones/market_data/commit/175f52687a3bd3c2ac986d09aa8a4b43dedba96e) — 2026-03-02 17:25 CST
+- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Created MCP server.](https://github.com/jdejones/Prompt_Engineering/commit/7fcbac4f48fc07177b68c7799626f5766b60dfdc) — 2026-03-01 21:48 CST
 <!-- RECENT_COMMITS_END -->
+
+# Recent PRs
+<!-- RECENT_PRS_START -->
+_Last updated: 2026-03-05 14:21 CST_
+
+- [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
+<!-- RECENT_PRS_END -->
 {% comment %}
 _________________________________________________________________________________________________________________________________________________________________
 

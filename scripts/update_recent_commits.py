@@ -133,7 +133,7 @@ def render_markdown(items: list[dict]) -> str:
                 date = str(author.get("date"))
 
         url = str(item.get("html_url") or "")
-        repo_url = "github.com/jdejones/" + repo
+        repo_url = f"https://github.com/{repo}" if repo else ""
 
         date_short = format_datetime(date)
         repo_part = f"[**{escape_md(repo)}**]({repo_url})" if repo else "**(unknown repo)**"

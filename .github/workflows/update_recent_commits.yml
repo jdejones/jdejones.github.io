@@ -30,6 +30,12 @@ jobs:
         run: |
           python scripts/update_recent_commits.py --user jdejones --count 3 --file home.md
 
+      - name: Update home.md Recent PRs section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/update_recent_prs.py --user jdejones --exclude-owner jdejones --file home.md
+
       - name: Commit and push if changed
         run: |
           if [ -z "$(git status --porcelain)" ]; then

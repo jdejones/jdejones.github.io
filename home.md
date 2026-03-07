@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-03-06 07:20 CST_
+_Last updated: 2026-03-07 07:08 CST_
 
+- [**jdejones/Strategies**](https://github.com/jdejones/Strategies): [Demonstrate sweep engine usage](https://github.com/jdejones/Strategies/commit/38ac03eb547a49aabe5d38e19bcc93fef036e805) — 2026-03-06 19:38 CST
+- [**jdejones/Strategies**](https://github.com/jdejones/Strategies): [Add sweep engine expected value](https://github.com/jdejones/Strategies/commit/8f67b58324bbfc4add4793c898dabf8659ba9a26) — 2026-03-06 19:30 CST
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Style correction.](https://github.com/jdejones/market_data/commit/43582ddecd172317b8da0f9841c91debda7a8818) — 2026-03-05 16:34 CST
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created avg_liquid_vol_plot function.](https://github.com/jdejones/market_data/commit/889fed3fa56ae7ff3f7ab91b062a36a411ccb3af) — 2026-03-05 16:33 CST
-- [**jdejones/jdejones.github.io**](https://github.com/jdejones/jdejones.github.io): [Corrected grammatical error.](https://github.com/jdejones/jdejones.github.io/commit/0d5329f44a08bedcad78f1b06ea25a8cd284b0eb) — 2026-03-05 14:29 CST
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-03-06 07:20 CST_
+_Last updated: 2026-03-07 07:08 CST_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

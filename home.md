@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-03-27 08:42 CDT_
+_Last updated: 2026-03-28 08:18 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added cleanup after script error.](https://github.com/jdejones/market_data/commit/1f10b06ecf07bdbb2b108b37267c4c7f9531918e) — 2026-03-27 21:03 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added deletion of export artifacts.](https://github.com/jdejones/market_data/commit/e15221b1017bb5b950b5ef0de5964afffd1f0598) — 2026-03-27 10:39 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Removed VPN interference.](https://github.com/jdejones/market_data/commit/a000bc949a9ba0b2ed0481384a027818329251aa) — 2026-03-26 07:15 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Parallelized SQLite database creation and added tqdm progress bar.](https://github.com/jdejones/market_data/commit/c2748deddbbf1aafa962a75b84569f9691babc87) — 2026-03-19 13:36 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created script to convert MySQL database to SQLite and transfer it to OpenClaw PC.](https://github.com/jdejones/market_data/commit/5c9231ccb2878b20e584d31e67579509b77687ae) — 2026-03-19 00:08 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-03-27 08:42 CDT_
+_Last updated: 2026-03-28 08:18 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-04-09 09:14 CDT_
+_Last updated: 2026-04-10 08:49 CDT_
 
-- [**jdejones/Strategies**](https://github.com/jdejones/Strategies): [Added trade descriptions.](https://github.com/jdejones/Strategies/commit/afd62d32e3467eaa57667c94bb447b87189d0761) — 2026-04-09 01:52 CDT
-- [**jdejones/Strategies**](https://github.com/jdejones/Strategies): [Created trade taxonomy markdown file.](https://github.com/jdejones/Strategies/commit/7b9a667580da8ecf29f8af6802c6c9abefddd630) — 2026-04-08 15:14 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added sklearn import for convenience.](https://github.com/jdejones/market_data/commit/57e9cdf192d03a2b55d26f1614dc20e1341bd282) — 2026-04-04 10:49 CDT
+- [**jdejones/Strategies**](https://github.com/jdejones/Strategies): [Moved trade_taxonomy.md to utils.](https://github.com/jdejones/Strategies/commit/9b814c441c9ff3e8e000a6a7fed678316df137de) — 2026-04-09 11:34 CDT
+- [**jdejones/Strategies**](https://github.com/jdejones/Strategies): [Move trade_taxonomy.md to utils folder.](https://github.com/jdejones/Strategies/commit/e3061a6f811d188020b5b65d372824666ae0f65f) — 2026-04-09 11:27 CDT
+- [**jdejones/Strategies**](https://github.com/jdejones/Strategies): [Completed first draft of trade taxonomy.](https://github.com/jdejones/Strategies/commit/ccf9590d998d88a8ba6fc4726435a0bc82de4feb) — 2026-04-09 10:48 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-04-09 09:14 CDT_
+_Last updated: 2026-04-10 08:49 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

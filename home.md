@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-05-30 09:04 CDT_
+_Last updated: 2026-05-31 09:10 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created storage pipeline for recent market events.](https://github.com/jdejones/market_data/commit/1c6a0ac938908a0e90a29cb80515776d062dc0a8) — 2026-05-30 17:21 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Updated current_rvol.py script for compatibility with MySQL and local intraday price data database.](https://github.com/jdejones/market_data/commit/086c03ff56810ac79cbbaabe2bd3200fed985eab) — 2026-05-30 06:10 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created stream to storage pipeline.](https://github.com/jdejones/market_data/commit/554b11f3460a2cd52a11772f676336868950c40c) — 2026-05-29 20:14 CDT
-- [**jdejones/news_tracker**](https://github.com/jdejones/news_tracker): [Added log file storage for LLM accessibility.](https://github.com/jdejones/news_tracker/commit/075bccb9612fd971f1017cb77df34ccf7d10b96c) — 2026-05-28 15:37 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-05-30 09:04 CDT_
+_Last updated: 2026-05-31 09:10 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-01 13:15 CDT_
+_Last updated: 2026-06-02 11:54 CDT_
 
-- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Configured for writing to stocks.recent_events.](https://github.com/jdejones/Prompt_Engineering/commit/fa246c4db0ddbab4d5c72ccc41cb7035d1db3af2) — 2026-06-01 06:37 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created storage pipeline for recent market events.](https://github.com/jdejones/market_data/commit/1c6a0ac938908a0e90a29cb80515776d062dc0a8) — 2026-05-30 17:21 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Updated current_rvol.py script for compatibility with MySQL and local intraday price data database.](https://github.com/jdejones/market_data/commit/086c03ff56810ac79cbbaabe2bd3200fed985eab) — 2026-05-30 06:10 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Updated forward fill to current pandas version.](https://github.com/jdejones/market_data/commit/736554ab570d339649b62913e76f3a1d55bb0daa) — 2026-06-01 16:11 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Removed timers.](https://github.com/jdejones/market_data/commit/3956cbecc344d96b155ced121b8a2c6d63e438db) — 2026-06-01 15:34 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added column for news headlines and price direction.](https://github.com/jdejones/market_data/commit/ed62cfca130c3c94a54e57c1a92e50626f9018dd) — 2026-06-01 15:33 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-01 13:15 CDT_
+_Last updated: 2026-06-02 11:54 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

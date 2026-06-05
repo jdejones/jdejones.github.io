@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-04 10:42 CDT_
+_Last updated: 2026-06-05 10:27 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Updated forward fill to current pandas version.](https://github.com/jdejones/market_data/commit/736554ab570d339649b62913e76f3a1d55bb0daa) — 2026-06-01 16:11 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Removed timers.](https://github.com/jdejones/market_data/commit/3956cbecc344d96b155ced121b8a2c6d63e438db) — 2026-06-01 15:34 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added column for news headlines and price direction.](https://github.com/jdejones/market_data/commit/ed62cfca130c3c94a54e57c1a92e50626f9018dd) — 2026-06-01 15:33 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Removed non-essential objects from pickled objects.](https://github.com/jdejones/market_data/commit/77db118db7abe8ccba79551d7c4d33f5e5fc5d2a) — 2026-06-04 23:30 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Fixed too many columns error.](https://github.com/jdejones/market_data/commit/23a3460f58d43de63e3e8239e845a8498ba58fc3) — 2026-06-04 23:28 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Patched pandas warnings.](https://github.com/jdejones/market_data/commit/1a72c91f7e43863e84136a9200e6372ee40b7935) — 2026-06-04 23:25 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-04 10:42 CDT_
+_Last updated: 2026-06-05 10:27 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

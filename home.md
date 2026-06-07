@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-06 09:07 CDT_
+_Last updated: 2026-06-07 09:19 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created batch file to run pre-market scripts in.](https://github.com/jdejones/market_data/commit/d36d24e3796e876c068c5d82c824fcb33e57903d) — 2026-06-06 22:31 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added market holiday check.](https://github.com/jdejones/market_data/commit/6dfe3415213b1a93a02cdcf3348d170757c7a9f1) — 2026-06-06 22:29 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created batch file for post market scripts.](https://github.com/jdejones/market_data/commit/4d4e5e6f397125e72963de3421c34d15cf1f1a4d) — 2026-06-06 01:29 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added check for exchange holiday.](https://github.com/jdejones/market_data/commit/20ed9ca22aca87aa3bb6dccffe2daa6aba5f6e24) — 2026-06-06 01:28 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Corrected syntax error in script_error_logs.txt line.](https://github.com/jdejones/market_data/commit/bc292f4ba69eac80816b14272aab12f913e74a6a) — 2026-06-06 01:26 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-06 09:07 CDT_
+_Last updated: 2026-06-07 09:19 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

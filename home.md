@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-07 09:19 CDT_
+_Last updated: 2026-06-08 11:18 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created batch file to run pre-market scripts in.](https://github.com/jdejones/market_data/commit/d36d24e3796e876c068c5d82c824fcb33e57903d) — 2026-06-06 22:31 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added market holiday check.](https://github.com/jdejones/market_data/commit/6dfe3415213b1a93a02cdcf3348d170757c7a9f1) — 2026-06-06 22:29 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created batch file for post market scripts.](https://github.com/jdejones/market_data/commit/4d4e5e6f397125e72963de3421c34d15cf1f1a4d) — 2026-06-06 01:29 CDT
+- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Create batch file to run mcp server at log in.](https://github.com/jdejones/Prompt_Engineering/commit/9150d7618b698d0861df447607b5c87cbd34092d) — 2026-06-07 17:34 CDT
+- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Configured for writing to stocks.recent_events.](https://github.com/jdejones/Prompt_Engineering/commit/fa246c4db0ddbab4d5c72ccc41cb7035d1db3af2) — 2026-06-01 06:37 CDT
+- [**jdejones/news_tracker**](https://github.com/jdejones/news_tracker): [Added log file storage for LLM accessibility.](https://github.com/jdejones/news_tracker/commit/075bccb9612fd971f1017cb77df34ccf7d10b96c) — 2026-05-28 15:37 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-07 09:19 CDT_
+_Last updated: 2026-06-08 11:18 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

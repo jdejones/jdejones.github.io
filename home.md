@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-08 11:18 CDT_
+_Last updated: 2026-06-09 10:26 CDT_
 
-- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Create batch file to run mcp server at log in.](https://github.com/jdejones/Prompt_Engineering/commit/9150d7618b698d0861df447607b5c87cbd34092d) — 2026-06-07 17:34 CDT
-- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Configured for writing to stocks.recent_events.](https://github.com/jdejones/Prompt_Engineering/commit/fa246c4db0ddbab4d5c72ccc41cb7035d1db3af2) — 2026-06-01 06:37 CDT
-- [**jdejones/news_tracker**](https://github.com/jdejones/news_tracker): [Added log file storage for LLM accessibility.](https://github.com/jdejones/news_tracker/commit/075bccb9612fd971f1017cb77df34ccf7d10b96c) — 2026-05-28 15:37 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created script for displaying stocks making a new high of day and added the script to the pre-market batch file.](https://github.com/jdejones/market_data/commit/0aeeb4cd87f71ed874c3fe93b6e580ef07e74c05) — 2026-06-09 07:55 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Refactored to run continuously.](https://github.com/jdejones/market_data/commit/97365ab49f6320389ca795815bb3368a54631a77) — 2026-06-09 06:56 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added full table clearing after granting DELETE priviledges to gptdb.](https://github.com/jdejones/market_data/commit/94e834196681508bbb53eebed627ae289d8078bd) — 2026-06-09 06:39 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-08 11:18 CDT_
+_Last updated: 2026-06-09 10:26 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

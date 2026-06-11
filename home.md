@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-10 11:07 CDT_
+_Last updated: 2026-06-11 11:19 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Corrected missing lookback variable.](https://github.com/jdejones/market_data/commit/2f9820ca5c53fd9c1929af47959617e62f5d4bfa) — 2026-06-11 05:22 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created high_short_interest_in_play.py and added it to the batch file.](https://github.com/jdejones/market_data/commit/8ed55cc7506e483856cd5e6b397cf627ee45e0f3) — 2026-06-10 08:07 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created new low of day script and added it to pre-market batch file.](https://github.com/jdejones/market_data/commit/7740982b16a446bf7b51ff2562afff6bd8b09958) — 2026-06-10 07:37 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created script for displaying stocks making a new high of day and added the script to the pre-market batch file.](https://github.com/jdejones/market_data/commit/0aeeb4cd87f71ed874c3fe93b6e580ef07e74c05) — 2026-06-09 07:55 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-10 11:07 CDT_
+_Last updated: 2026-06-11 11:19 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

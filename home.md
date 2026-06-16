@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-15 12:26 CDT_
+_Last updated: 2026-06-16 12:19 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Removed create table query, the table already exists.](https://github.com/jdejones/market_data/commit/1f1f5f6ca32087e9e3849ede7c17cc24485d2aff) — 2026-06-16 01:14 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created ep_continuation.py and added it to the pre-market batch file.](https://github.com/jdejones/market_data/commit/11072a27f0378a36e0374836b03af27297c78b88) — 2026-06-13 09:06 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added episodic pivot sorting functionality.](https://github.com/jdejones/market_data/commit/ba2ed51999b8b65bb85e260191eae044e08594a7) — 2026-06-13 08:37 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added pause updates feature.](https://github.com/jdejones/market_data/commit/ad97de9e8a22f93328dd911bdd27fb47cc2ca4b9) — 2026-06-12 10:13 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-15 12:26 CDT_
+_Last updated: 2026-06-16 12:19 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

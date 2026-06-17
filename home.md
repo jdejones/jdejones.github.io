@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-16 12:19 CDT_
+_Last updated: 2026-06-17 11:04 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Removed create table query, the table already exists.](https://github.com/jdejones/market_data/commit/1f1f5f6ca32087e9e3849ede7c17cc24485d2aff) — 2026-06-16 01:14 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created ep_continuation.py and added it to the pre-market batch file.](https://github.com/jdejones/market_data/commit/11072a27f0378a36e0374836b03af27297c78b88) — 2026-06-13 09:06 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added episodic pivot sorting functionality.](https://github.com/jdejones/market_data/commit/ba2ed51999b8b65bb85e260191eae044e08594a7) — 2026-06-13 08:37 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added resample to a 3-minute timeframe.](https://github.com/jdejones/market_data/commit/b320712e3140514c96a517a1d8aa83301299c45b) — 2026-06-17 09:18 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Updated to connect to real-time web socket.](https://github.com/jdejones/market_data/commit/f222cc0ede1840fd9ea6bd5508b4f924b59b2d97) — 2026-06-17 08:06 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created script for displaying day 1 episodic pivots.](https://github.com/jdejones/market_data/commit/847a09f26f3f8845bdcfba1e617fefb86eb870c8) — 2026-06-17 07:52 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-16 12:19 CDT_
+_Last updated: 2026-06-17 11:04 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

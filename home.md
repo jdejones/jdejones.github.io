@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-19 10:42 CDT_
+_Last updated: 2026-06-20 09:29 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added resample to a 3-minute timeframe.](https://github.com/jdejones/market_data/commit/b320712e3140514c96a517a1d8aa83301299c45b) — 2026-06-17 09:18 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Updated to connect to real-time web socket.](https://github.com/jdejones/market_data/commit/f222cc0ede1840fd9ea6bd5508b4f924b59b2d97) — 2026-06-17 08:06 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created script for displaying day 1 episodic pivots.](https://github.com/jdejones/market_data/commit/847a09f26f3f8845bdcfba1e617fefb86eb870c8) — 2026-06-17 07:52 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Edited type hint to fit repo convention.](https://github.com/jdejones/market_data/commit/a1e1a29dff98ffc03689c72097d6bd2bf336da6c) — 2026-06-20 04:44 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added filings to __init.py.](https://github.com/jdejones/market_data/commit/f87f379ce6764a285344ff087d6971f01b188fea) — 2026-06-19 15:55 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Adding single_fundamental to filing. Refactored for current codebase.](https://github.com/jdejones/market_data/commit/359da36fe585eb643ba6fcb202f163d7fa770a37) — 2026-06-19 15:51 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-19 10:42 CDT_
+_Last updated: 2026-06-20 09:29 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

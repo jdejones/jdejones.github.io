@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-06-20 09:29 CDT_
+_Last updated: 2026-06-21 09:31 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created objects for processing 13-F filing data.](https://github.com/jdejones/market_data/commit/eb482909735f68e4c354b9c0f7a6ddbd35737595) — 2026-06-21 08:58 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Integrated filings.single_fundemental with fundamentals.py](https://github.com/jdejones/market_data/commit/2962cb57450e0f3200d2898630465c0d35a61f97) — 2026-06-20 04:46 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Edited type hint to fit repo convention.](https://github.com/jdejones/market_data/commit/a1e1a29dff98ffc03689c72097d6bd2bf336da6c) — 2026-06-20 04:44 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added filings to __init.py.](https://github.com/jdejones/market_data/commit/f87f379ce6764a285344ff087d6971f01b188fea) — 2026-06-19 15:55 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Adding single_fundamental to filing. Refactored for current codebase.](https://github.com/jdejones/market_data/commit/359da36fe585eb643ba6fcb202f163d7fa770a37) — 2026-06-19 15:51 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-06-20 09:29 CDT_
+_Last updated: 2026-06-21 09:31 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

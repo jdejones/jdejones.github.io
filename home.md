@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-07-03 09:31 CDT_
+_Last updated: 2026-07-04 08:57 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Corrected indentation to improve readability.](https://github.com/jdejones/market_data/commit/315a08e3ace810858c05bc9f99933c6797f22de6) — 2026-07-02 15:24 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added patch for daily quant rating import/storage. Also, added functionality for storing daily processing results.](https://github.com/jdejones/market_data/commit/40fccc40814344e25a9f80d534deb3dc71478077) — 2026-07-02 15:15 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Redirected tqdm output for compatibility with detailed error logs.](https://github.com/jdejones/market_data/commit/fba0b7e83109d517ae5c3f52a0f353652434ad71) — 2026-06-25 16:24 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [First pass refactoring towards MySQL storage of processed OHLCV dataframes.](https://github.com/jdejones/market_data/commit/21f53be43fa90aa0520851a4b34dc9f39bca80ba) — 2026-07-03 20:56 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created _mysql_safe_dataframe function.](https://github.com/jdejones/market_data/commit/29622f199fb0802dd27b79de6868da156d904fac) — 2026-07-03 20:54 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Commented out the *to_openclaw scripts to prepare for removal.](https://github.com/jdejones/market_data/commit/0b39075539b09fcf5f039e2571bd591a53d64708) — 2026-07-03 20:53 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-07-03 09:31 CDT_
+_Last updated: 2026-07-04 08:57 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

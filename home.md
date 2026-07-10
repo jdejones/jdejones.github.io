@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-07-09 10:32 CDT_
+_Last updated: 2026-07-10 10:00 CDT_
 
-- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Added write-only access for business_analytics schema to OpenClaw MCP.](https://github.com/jdejones/Prompt_Engineering/commit/2d9f4bbd6cb1f8da743ebb2a83458741f0f089ef) — 2026-07-05 21:53 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Removed occurrences of yfinance.](https://github.com/jdejones/market_data/commit/58aa40ffc92b9e0faaffbd038bbc3c32d4ad89dd) — 2026-07-04 12:26 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Refactored for storage of processed daily price data.](https://github.com/jdejones/market_data/commit/20a20d727458dee1fc28f9515e4084898d9342d2) — 2026-07-04 12:17 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Bug Fix: Current RVol GUI not populating when task run on CPU in sleep state.](https://github.com/jdejones/market_data/commit/87d99e10af9350522218456c230df170f47bdaa8) — 2026-07-10 08:05 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Updated script to run daily_after_close_processing_upsert.py script.](https://github.com/jdejones/market_data/commit/222ac3a8134ecdec1285b281a0457b85315628ef) — 2026-07-10 06:45 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Uncommented results_finvizsearch storage.](https://github.com/jdejones/market_data/commit/253f5cca20137641b802f25a028d988c1f26156c) — 2026-07-10 06:44 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-07-09 10:32 CDT_
+_Last updated: 2026-07-10 10:00 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

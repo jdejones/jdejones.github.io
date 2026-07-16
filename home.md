@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-07-15 09:08 CDT_
+_Last updated: 2026-07-16 09:21 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Removed timer.](https://github.com/jdejones/market_data/commit/e724381f51d4bf843cb2a489ee2aa5edfe253ec9) — 2026-07-15 15:10 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created scripts for adding current/breaking news to the Current RVol GUI.](https://github.com/jdejones/market_data/commit/c819c1be3857d81f01487436498a066746e6698d) — 2026-07-15 15:09 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added counter to GUI.](https://github.com/jdejones/market_data/commit/190969ce4ed4b0df39d41f586c3a147a64486ce9) — 2026-07-14 03:54 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Bug Fix: Current RVol GUI not populating when task run on CPU in sleep state.](https://github.com/jdejones/market_data/commit/87d99e10af9350522218456c230df170f47bdaa8) — 2026-07-10 08:05 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Updated script to run daily_after_close_processing_upsert.py script.](https://github.com/jdejones/market_data/commit/222ac3a8134ecdec1285b281a0457b85315628ef) — 2026-07-10 06:45 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-07-15 09:08 CDT_
+_Last updated: 2026-07-16 09:21 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

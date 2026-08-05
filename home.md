@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-04 09:38 CDT_
+_Last updated: 2026-08-05 09:31 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added multi-select features.](https://github.com/jdejones/market_data/commit/dcf520597dd4cc4f16aabeffa3f2137f510f861b) — 2026-08-04 15:04 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Corrected extension_algo's retracement calculation method.](https://github.com/jdejones/market_data/commit/03be3f9b477eac8decddde3d7880b09428879d12) — 2026-08-04 14:58 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created dashboard for launching intraday scripts.](https://github.com/jdejones/market_data/commit/106471a7e64e900d6937bbdd76bf678642ecb4f3) — 2026-08-04 09:13 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added styling to t2 indicator dataframe.](https://github.com/jdejones/market_data/commit/f739b1322706379f0fd9b8caf00c5b465e9040eb) — 2026-07-30 18:10 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added indentation for improved readability.](https://github.com/jdejones/market_data/commit/96a185a4bf12af7032631c21dbbf7ddac7add6fb) — 2026-07-29 12:36 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-04 09:38 CDT_
+_Last updated: 2026-08-05 09:31 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

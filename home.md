@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-06 09:33 CDT_
+_Last updated: 2026-08-07 08:38 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added multi-select features.](https://github.com/jdejones/market_data/commit/dcf520597dd4cc4f16aabeffa3f2137f510f861b) — 2026-08-04 15:04 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Corrected extension_algo's retracement calculation method.](https://github.com/jdejones/market_data/commit/03be3f9b477eac8decddde3d7880b09428879d12) — 2026-08-04 14:58 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created dashboard for launching intraday scripts.](https://github.com/jdejones/market_data/commit/106471a7e64e900d6937bbdd76bf678642ecb4f3) — 2026-08-04 09:13 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created etf trader and added it to intraday script launcher.](https://github.com/jdejones/market_data/commit/ff2ba810fd934b7a79de482cd25ae1ab5e18cfea) — 2026-08-07 01:47 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created fitler for retests identified by regime, hi/lo swing functions.](https://github.com/jdejones/market_data/commit/22f84de1d913bda6d3a66ca0a62f2f6cde4d78b5) — 2026-08-06 22:14 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added multi-file loading to intraday price stream and updated related files.](https://github.com/jdejones/market_data/commit/fdfa2334efaaaaffbecb8d07edaf832b7ec07d2b) — 2026-08-06 12:14 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-06 09:33 CDT_
+_Last updated: 2026-08-07 08:38 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

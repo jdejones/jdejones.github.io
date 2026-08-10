@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-09 08:14 CDT_
+_Last updated: 2026-08-10 08:42 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Corrected error handling.](https://github.com/jdejones/market_data/commit/9c2f7647eb69b06bdea278b0f7029e164ebae135) — 2026-08-09 13:56 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added episodic pivots to loaded variables.](https://github.com/jdejones/market_data/commit/23c908ec621b5223bad031dc6157ca869fc9f0b4) — 2026-08-08 14:30 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added optional plot to count function.](https://github.com/jdejones/market_data/commit/900ec3393828c438a1f325a05d1ed086f4372983) — 2026-08-08 14:29 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added quant rating column, multiple sector/industry import, and arranged windows.](https://github.com/jdejones/market_data/commit/8d4cd8e8b27de3c49a6297d27ec337bdc572b777) — 2026-08-07 13:59 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-09 08:15 CDT_
+_Last updated: 2026-08-10 08:42 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

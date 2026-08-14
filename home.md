@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-13 08:46 CDT_
+_Last updated: 2026-08-14 08:41 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added workaround for finviz library bug.](https://github.com/jdejones/market_data/commit/44d43b3a46dc7fcaaa3665944888dd85f684e253) — 2026-08-12 20:45 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added functionality for containing episodic pivot's peak date.](https://github.com/jdejones/market_data/commit/3f3bae3a5ba50ebd91665d723fa01a841999b1f9) — 2026-08-10 14:32 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created current returns objects.](https://github.com/jdejones/market_data/commit/d63ba29da0ccf9787c09a0ea832701a7a7a29166) — 2026-08-10 14:21 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Edited pickle objects to optimize memory demand.](https://github.com/jdejones/market_data/commit/f7dadb3dd224f2d2e788166b73bb10c264761060) — 2026-08-13 23:45 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added mean calculations of table columns.](https://github.com/jdejones/market_data/commit/26689c07aaa8c2d283602613f76025cebac83ca8) — 2026-08-13 19:01 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Changed symbol loading pattern to lighter weight retrieval.](https://github.com/jdejones/market_data/commit/a25c5f6026fe78356e922ef7033fde8aafee9e36) — 2026-08-13 15:32 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-13 08:46 CDT_
+_Last updated: 2026-08-14 08:42 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

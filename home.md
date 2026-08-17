@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-16 07:59 CDT_
+_Last updated: 2026-08-17 08:04 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added recent_events_gui.py to Market Data Dashboard.](https://github.com/jdejones/market_data/commit/89c94f293cb7ed5cd16d19f5c8f7abaf3f6931cb) — 2026-08-14 12:17 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Edited pickle objects to optimize memory demand.](https://github.com/jdejones/market_data/commit/f7dadb3dd224f2d2e788166b73bb10c264761060) — 2026-08-13 23:45 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added mean calculations of table columns.](https://github.com/jdejones/market_data/commit/26689c07aaa8c2d283602613f76025cebac83ca8) — 2026-08-13 19:01 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Bug fix: added 1 to episodic pivot duration.](https://github.com/jdejones/market_data/commit/3e449747cfce532382653e0cc752eea56c9676bd) — 2026-08-17 05:03 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added form13f_gui.py to Market Data Dashboard.](https://github.com/jdejones/market_data/commit/56b488d5c110116f05d7bc2b1965aaf31e1eea02) — 2026-08-16 18:46 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created GUI for observing 13F filings.](https://github.com/jdejones/market_data/commit/beef753fe06a1c0b2bf55bf0a907bf4dadb1087f) — 2026-08-16 13:12 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-16 07:59 CDT_
+_Last updated: 2026-08-17 08:04 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

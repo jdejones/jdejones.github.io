@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-18 08:06 CDT_
+_Last updated: 2026-08-19 08:07 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Bug fix: added 1 to episodic pivot duration.](https://github.com/jdejones/market_data/commit/3e449747cfce532382653e0cc752eea56c9676bd) — 2026-08-17 05:03 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added form13f_gui.py to Market Data Dashboard.](https://github.com/jdejones/market_data/commit/56b488d5c110116f05d7bc2b1965aaf31e1eea02) — 2026-08-16 18:46 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created GUI for observing 13F filings.](https://github.com/jdejones/market_data/commit/beef753fe06a1c0b2bf55bf0a907bf4dadb1087f) — 2026-08-16 13:12 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added optional object unpacking.](https://github.com/jdejones/market_data/commit/595aa6b879c4cf66262c168b57bce456f35b226a) — 2026-08-18 19:19 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added date comparison feature.](https://github.com/jdejones/market_data/commit/d8aaa99b8e98908455b4404d3761cb41ee8b3084) — 2026-08-18 19:10 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Renamed etf_trader.py.](https://github.com/jdejones/market_data/commit/ef7ce40bff579210ce49d34e93dc7d88b6e13b0b) — 2026-08-18 18:34 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-18 08:06 CDT_
+_Last updated: 2026-08-19 08:07 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

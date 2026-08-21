@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-20 08:10 CDT_
+_Last updated: 2026-08-21 08:09 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added sort by symbol feature.](https://github.com/jdejones/market_data/commit/8f2f228e8edc2c90bff5ad15b11f7d5ec8e5393b) — 2026-08-20 19:04 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added optional object unpacking.](https://github.com/jdejones/market_data/commit/595aa6b879c4cf66262c168b57bce456f35b226a) — 2026-08-18 19:19 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added date comparison feature.](https://github.com/jdejones/market_data/commit/d8aaa99b8e98908455b4404d3761cb41ee8b3084) — 2026-08-18 19:10 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Renamed etf_trader.py.](https://github.com/jdejones/market_data/commit/ef7ce40bff579210ce49d34e93dc7d88b6e13b0b) — 2026-08-18 18:34 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-20 08:10 CDT_
+_Last updated: 2026-08-21 08:09 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-24 08:12 CDT_
+_Last updated: 2026-08-25 08:10 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added sort by symbol feature.](https://github.com/jdejones/market_data/commit/8f2f228e8edc2c90bff5ad15b11f7d5ec8e5393b) — 2026-08-20 19:04 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added optional object unpacking.](https://github.com/jdejones/market_data/commit/595aa6b879c4cf66262c168b57bce456f35b226a) — 2026-08-18 19:19 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added date comparison feature.](https://github.com/jdejones/market_data/commit/d8aaa99b8e98908455b4404d3761cb41ee8b3084) — 2026-08-18 19:10 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added sector/industry analysis features.](https://github.com/jdejones/market_data/commit/358e515bda1ac8186806c11840a1ba256190fd0d) — 2026-08-24 14:51 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Fixed manager name bug and added search feature.](https://github.com/jdejones/market_data/commit/d2ec6bf3c8489721129de8ffa4171da391d947f2) — 2026-08-24 13:11 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added ATM tracking.](https://github.com/jdejones/market_data/commit/56a4c8d3ef81af09d5cf4cc6ea5fdf344c5483c7) — 2026-08-24 13:10 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-24 08:12 CDT_
+_Last updated: 2026-08-25 08:10 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

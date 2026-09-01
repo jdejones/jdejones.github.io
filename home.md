@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-08-31 14:07 CDT_
+_Last updated: 2026-09-01 11:39 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added implied quarter end price.](https://github.com/jdejones/market_data/commit/d9f297621c1fe5fa3513456ea40c83a8e314980d) — 2026-09-01 09:59 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created script to update locally stored most recent earnings filings.](https://github.com/jdejones/market_data/commit/e63da019035523bcc5cb53bfb1dd07efdfa82820) — 2026-08-30 13:48 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added news headline poster gui to intraday script launcher.](https://github.com/jdejones/market_data/commit/279d55834ed5f488ac887c54e817865c74e9a7af) — 2026-08-26 18:39 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added dilution_data_gui.py to script launcher.](https://github.com/jdejones/market_data/commit/62a08f5f115cd0dad000b3bca6215302369fb28e) — 2026-08-26 13:15 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-08-31 14:07 CDT_
+_Last updated: 2026-09-01 11:39 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

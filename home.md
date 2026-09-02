@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-09-01 11:39 CDT_
+_Last updated: 2026-09-02 11:34 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added implied quarter end price.](https://github.com/jdejones/market_data/commit/d9f297621c1fe5fa3513456ea40c83a8e314980d) — 2026-09-01 09:59 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Created script to update locally stored most recent earnings filings.](https://github.com/jdejones/market_data/commit/e63da019035523bcc5cb53bfb1dd07efdfa82820) — 2026-08-30 13:48 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added news headline poster gui to intraday script launcher.](https://github.com/jdejones/market_data/commit/279d55834ed5f488ac887c54e817865c74e9a7af) — 2026-08-26 18:39 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added sort-direction triangles to table column headers.](https://github.com/jdejones/market_data/commit/5b48986ee998cf20e2678b7ac3d9489592b1e064) — 2026-09-02 11:13 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Bug fix: RVol not populating.](https://github.com/jdejones/market_data/commit/add77c7e6f108c8a89df45287afa6a1e80b8548a) — 2026-09-02 10:43 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [High beta symbols file not needed. There are checks ensuring only high beta symbols from the High_AvgDV.txt file are in high_beta.txt.](https://github.com/jdejones/market_data/commit/29a2f71da55e1349311d83d2905ec3bcd84ba212) — 2026-09-01 23:58 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-09-01 11:39 CDT_
+_Last updated: 2026-09-02 11:34 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

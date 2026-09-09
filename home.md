@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-09-08 11:37 CDT_
+_Last updated: 2026-09-09 11:38 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added polygon fallback to price_sales.](https://github.com/jdejones/market_data/commit/6dd1e011f45ddbc822d38df186e5a4f600c4bd9e) — 2026-09-09 09:58 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Bug fixes.](https://github.com/jdejones/market_data/commit/f6df557c39994d1812805b2f14f4b513b37721bf) — 2026-09-09 09:57 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added de-dup functionality.](https://github.com/jdejones/market_data/commit/a6ff9a5ff84d053b5e20ea48bd747b9b3aee4218) — 2026-09-07 18:12 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added counters.](https://github.com/jdejones/market_data/commit/916cc7e3d02f221fc02771819b9bee20bd06819d) — 2026-09-07 17:46 CDT
-- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Added updated on timestamp.](https://github.com/jdejones/Prompt_Engineering/commit/f79f0d95ce6d0ac3ca92e79e91ebb36b4e4714e2) — 2026-09-07 16:02 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-09-08 11:37 CDT_
+_Last updated: 2026-09-09 11:38 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

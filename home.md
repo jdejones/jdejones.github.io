@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-09-10 11:23 CDT_
+_Last updated: 2026-09-11 11:28 CDT_
 
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added peak date and end date to return value.](https://github.com/jdejones/market_data/commit/b0b17b3c8bd5ef3eeb5b45c9d0ca9553bdb18544) — 2026-09-09 20:50 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Modified keys to stings of the respective date for ease of access.](https://github.com/jdejones/market_data/commit/14addeeb91a47f842d559164d3b41de1b79e483f) — 2026-09-09 20:25 CDT
-- [**jdejones/news_tracker**](https://github.com/jdejones/news_tracker): [Enabled sorting and column resizing.](https://github.com/jdejones/news_tracker/commit/190aa25ea4d6ea89399d111edf507caad82943f0) — 2026-09-09 18:39 CDT
+- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Created database catalog.](https://github.com/jdejones/Prompt_Engineering/commit/470e37d80282329a10d23fd994624a1e4728772f) — 2026-09-10 22:05 CDT
+- [**jdejones/news_tracker**](https://github.com/jdejones/news_tracker): [Added live news feed.](https://github.com/jdejones/news_tracker/commit/01668a173341443ddf398b64e923d418cfee4bd0) — 2026-09-10 21:34 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Adaptation after migration.](https://github.com/jdejones/market_data/commit/4d32821b818233c3bf896a6bf01a5812091e1751) — 2026-09-10 21:20 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-09-10 11:23 CDT_
+_Last updated: 2026-09-11 11:28 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

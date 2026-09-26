@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-09-25 12:11 CDT_
+_Last updated: 2026-09-26 11:23 CDT_
 
-- [**jdejones/Prompt_Engineering**](https://github.com/jdejones/Prompt_Engineering): [Added safe write privileges to gptdb.](https://github.com/jdejones/Prompt_Engineering/commit/8f350963a7be1cd1f2c9deca68c00bf7f1347bde) — 2026-09-24 10:50 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Bug fix: removed weekend dates from time series charts.](https://github.com/jdejones/market_data/commit/cc9a9bdce70ab2b2d27091a00b550bd10249078a) — 2026-09-20 22:16 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added network_analysis_gui.py to script launcher.](https://github.com/jdejones/market_data/commit/b66b1bde355eb2c8f920370681a8fad9137b63cb) — 2026-09-20 13:11 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added news filter.](https://github.com/jdejones/market_data/commit/c1bc5d778cc5900d8cfb43edfee6dd4a80e4f588) — 2026-09-25 16:13 CDT
+- [**jdejones/news_tracker**](https://github.com/jdejones/news_tracker): [Created news filter.](https://github.com/jdejones/news_tracker/commit/9a8b59382822641992544bf28ceab9462fbaabf7) — 2026-09-25 16:10 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added workbooks folder.](https://github.com/jdejones/market_data/commit/9c7b1b18388f1aecc46a387a69ca4747c8008d54) — 2026-09-25 15:07 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-09-25 12:11 CDT_
+_Last updated: 2026-09-26 11:23 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

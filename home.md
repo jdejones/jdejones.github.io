@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-10-01 13:25 CDT_
+_Last updated: 2026-10-02 12:52 CDT_
 
+- [**jdejones/TrialDelta**](https://github.com/jdejones/TrialDelta): [Update TrialDelta](https://github.com/jdejones/TrialDelta/commit/2a754f54dcc81a9398b53b49618adb2910599e4a) — 2026-10-01 14:14 CDT
+- [**jdejones/TrialDelta**](https://github.com/jdejones/TrialDelta): [Build TrialDelta evidence-backed oncology research workspace](https://github.com/jdejones/TrialDelta/commit/8dbdc661b75ee641372e83c8875dddbf92d236df) — 2026-10-01 14:12 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Spelling correction.](https://github.com/jdejones/market_data/commit/fe44d514d3684740602334336fb76c000c8bcbfe) — 2026-09-27 13:03 CDT
-- [**jdejones/news_tracker**](https://github.com/jdejones/news_tracker): [Added real-time biotech filings update.](https://github.com/jdejones/news_tracker/commit/54e37aaf6f80c7033b697c9301788ad02549a458) — 2026-09-27 01:40 CDT
-- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added news filter.](https://github.com/jdejones/market_data/commit/c1bc5d778cc5900d8cfb43edfee6dd4a80e4f588) — 2026-09-25 16:13 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-10-01 13:25 CDT_
+_Last updated: 2026-10-02 12:52 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

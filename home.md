@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-10-07 13:56 CDT_
+_Last updated: 2026-10-08 13:50 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added "Income" column to results_finvizsearch.](https://github.com/jdejones/market_data/commit/fc35765930088ddcdec6b80b30b7c667e70f8414) — 2026-10-07 21:02 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Migrated to finviz api.](https://github.com/jdejones/market_data/commit/8dde621ec5aed12f902c473a8c431d0c190fbadb) — 2026-10-02 21:21 CDT
 - [**jdejones/TrialDelta**](https://github.com/jdejones/TrialDelta): [Update TrialDelta](https://github.com/jdejones/TrialDelta/commit/2a754f54dcc81a9398b53b49618adb2910599e4a) — 2026-10-01 14:14 CDT
-- [**jdejones/TrialDelta**](https://github.com/jdejones/TrialDelta): [Build TrialDelta evidence-backed oncology research workspace](https://github.com/jdejones/TrialDelta/commit/8dbdc661b75ee641372e83c8875dddbf92d236df) — 2026-10-01 14:12 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-10-07 13:56 CDT_
+_Last updated: 2026-10-08 13:50 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->

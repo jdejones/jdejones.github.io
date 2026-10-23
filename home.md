@@ -38,16 +38,16 @@ LeetCode is a platform that provides coding problems in several languages at var
 
 # Recent commits
 <!-- RECENT_COMMITS_START -->
-_Last updated: 2026-10-22 12:10 CDT_
+_Last updated: 2026-10-23 12:06 CDT_
 
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added compatibility for dataframes with fewer rows than offset.](https://github.com/jdejones/market_data/commit/d9311125e2620cb13d8b3ec2cf50a95ac124cb49) — 2026-10-22 17:37 CDT
+- [**jdejones/market_data**](https://github.com/jdejones/market_data): [Completed refactor to finviz api.](https://github.com/jdejones/market_data/commit/7cad83cca6ab6045c583e642ae01c3a5611d9261) — 2026-10-19 18:15 CDT
 - [**jdejones/market_data**](https://github.com/jdejones/market_data): [Added breaking news alerts.](https://github.com/jdejones/market_data/commit/891e47a7e3149716463a28063dfde573d200cad4) — 2026-10-18 14:21 CDT
-- [**jdejones/TrialDelta**](https://github.com/jdejones/TrialDelta): [Removed demo data and display.](https://github.com/jdejones/TrialDelta/commit/959b7531bcd4a28307e47e0b59c7a05fc3942e4f) — 2026-10-18 14:19 CDT
-- [**jdejones/TrialDelta**](https://github.com/jdejones/TrialDelta): [Added live data statement to the README.](https://github.com/jdejones/TrialDelta/commit/81ec7dd7c4b8c4a2ae856c595ad9c3da2627fe48) — 2026-10-10 12:05 CDT
 <!-- RECENT_COMMITS_END -->
 
 # Recent PRs
 <!-- RECENT_PRS_START -->
-_Last updated: 2026-10-22 12:10 CDT_
+_Last updated: 2026-10-23 12:06 CDT_
 
 - [**lit26/finvizfinance**](https://github.com/lit26/finvizfinance): [Fixed bug causing 'No Ticker Found' error using the following changes…](https://github.com/lit26/finvizfinance/pull/145) — 2025-12-27 13:27 CST · closed
 <!-- RECENT_PRS_END -->
